@@ -1,0 +1,5429 @@
+To refresh this file, delete it and run /reload command again! Last updated: May 15, 2022, 1:09:21 AM
+
+#dragonloot:explosion_resistant
+- dragonloot:dragon_scale
+- dragonloot:dragon_helmet
+- dragonloot:dragon_chestplate
+- dragonloot:dragon_leggings
+- dragonloot:dragon_boots
+- dragonloot:upgraded_dragon_chestplate
+- dragonloot:dragon_pickaxe
+- dragonloot:dragon_shovel
+- dragonloot:dragon_axe
+- dragonloot:dragon_hoe
+- dragonloot:dragon_sword
+- dragonloot:dragon_bow
+- dragonloot:dragon_crossbow
+
+#c:iridium_ores
+- techreborn:iridium_ore
+- techreborn:deepslate_iridium_ore
+
+#forge:glass/tinted
+- minecraft:tinted_glass
+
+#techreborn:gems
+- techreborn:peridot_gem
+- techreborn:red_garnet_gem
+- techreborn:ruby_gem
+- techreborn:sapphire_gem
+- techreborn:yellow_garnet_gem
+
+#c:chromium_ingots
+- techreborn:chrome_ingot
+
+#techreborn:plates
+- techreborn:advanced_alloy_plate
+- techreborn:aluminum_plate
+- techreborn:brass_plate
+- techreborn:bronze_plate
+- techreborn:carbon_plate
+- techreborn:chrome_plate
+- techreborn:coal_plate
+- techreborn:copper_plate
+- techreborn:diamond_plate
+- techreborn:electrum_plate
+- techreborn:emerald_plate
+- techreborn:gold_plate
+- techreborn:invar_plate
+- techreborn:iridium_alloy_plate
+- techreborn:iridium_plate
+- techreborn:iron_plate
+- techreborn:lapis_plate
+- techreborn:lazurite_plate
+- techreborn:lead_plate
+- techreborn:magnalium_plate
+- techreborn:nickel_plate
+- techreborn:obsidian_plate
+- techreborn:peridot_plate
+- techreborn:platinum_plate
+- techreborn:quartz_plate
+- techreborn:red_garnet_plate
+- techreborn:redstone_plate
+- techreborn:refined_iron_plate
+- techreborn:ruby_plate
+- techreborn:sapphire_plate
+- techreborn:silicon_plate
+- techreborn:silver_plate
+- techreborn:steel_plate
+- techreborn:tin_plate
+- techreborn:titanium_plate
+- techreborn:tungsten_plate
+- techreborn:tungstensteel_plate
+- techreborn:wood_plate
+- techreborn:yellow_garnet_plate
+- techreborn:zinc_plate
+
+#forge:dyes/gray
+- minecraft:gray_dye
+
+#c:green_glass_slabs
+- mo_glass:green_stained_glass_slab
+
+#c:fluix
+- ae2:fluix_crystal
+
+#c:light_blue_glass_stairs
+- mo_glass:light_blue_stained_glass_stairs
+
+#c:sponges
+- minecraft:sponge
+- minecraft:wet_sponge
+
+#c:invar_ingots
+- techreborn:invar_ingot
+
+#c:magenta_glass_blocks
+- minecraft:magenta_stained_glass
+
+#c:advanced_alloy_blocks
+- techreborn:advanced_alloy_storage_block
+
+#forge:storage_blocks/netherite
+- minecraft:netherite_block
+
+#forge:glass_panes/white
+- minecraft:white_stained_glass_pane
+
+#c:blue_glass_blocks
+- minecraft:blue_stained_glass
+
+#techreborn:small_dusts
+- techreborn:almandine_small_dust
+- techreborn:andesite_small_dust
+- techreborn:andradite_small_dust
+- techreborn:ashes_small_dust
+- techreborn:basalt_small_dust
+- techreborn:bauxite_small_dust
+- techreborn:calcite_small_dust
+- techreborn:charcoal_small_dust
+- techreborn:chrome_small_dust
+- techreborn:cinnabar_small_dust
+- techreborn:clay_small_dust
+- techreborn:coal_small_dust
+- techreborn:dark_ashes_small_dust
+- techreborn:diamond_small_dust
+- techreborn:diorite_small_dust
+- techreborn:electrum_small_dust
+- techreborn:emerald_small_dust
+- techreborn:ender_eye_small_dust
+- techreborn:ender_pearl_small_dust
+- techreborn:endstone_small_dust
+- techreborn:flint_small_dust
+- techreborn:galena_small_dust
+- techreborn:glowstone_small_dust
+- techreborn:granite_small_dust
+- techreborn:grossular_small_dust
+- techreborn:invar_small_dust
+- techreborn:lazurite_small_dust
+- techreborn:magnesium_small_dust
+- techreborn:manganese_small_dust
+- techreborn:marble_small_dust
+- techreborn:netherrack_small_dust
+- techreborn:nickel_small_dust
+- techreborn:obsidian_small_dust
+- techreborn:olivine_small_dust
+- techreborn:peridot_small_dust
+- techreborn:phosphorous_small_dust
+- techreborn:platinum_small_dust
+- techreborn:pyrite_small_dust
+- techreborn:pyrope_small_dust
+- techreborn:quartz_small_dust
+- techreborn:redstone_small_dust
+- techreborn:red_garnet_small_dust
+- techreborn:ruby_small_dust
+- techreborn:saltpeter_small_dust
+- techreborn:sapphire_small_dust
+- techreborn:saw_small_dust
+- techreborn:sodalite_small_dust
+- techreborn:spessartine_small_dust
+- techreborn:sphalerite_small_dust
+- techreborn:steel_small_dust
+- techreborn:sulfur_small_dust
+- techreborn:titanium_small_dust
+- techreborn:tungsten_small_dust
+- techreborn:uvarovite_small_dust
+- techreborn:yellow_garnet_small_dust
+- techreborn:zinc_small_dust
+
+#c:coral_blocks
+- #c:living_coral_blocks
+- #c:dead_coral_blocks
+
+#forge:glass_panes/light_gray
+- minecraft:light_gray_stained_glass_pane
+
+#c:cinnabar_small_dusts
+- techreborn:cinnabar_small_dust
+
+#fabric:vegetables/carrot
+- minecraft:carrot
+
+#fabric:axes
+- additionaladditions:rose_gold_axe?
+- additionaladditions:gilded_netherite_axe?
+- dragonloot:dragon_axe
+- techreborn:bronze_axe
+- techreborn:ruby_axe
+- techreborn:sapphire_axe
+- techreborn:peridot_axe
+- techreborn:basic_chainsaw
+- techreborn:advanced_chainsaw
+- techreborn:industrial_chainsaw
+- techreborn:omni_tool
+
+#c:lime_glass_slabs
+- mo_glass:lime_stained_glass_slab
+
+#forge:glass/pink
+- minecraft:pink_stained_glass
+
+#forge:chests
+- #forge:chests/ender
+- #forge:chests/trapped
+- #forge:chests/wooden
+
+#forge:storage_blocks/emerald
+- minecraft:emerald_block
+
+#forge:ores/redstone
+- #minecraft:redstone_ores
+
+#c:brown_dyes
+- minecraft:brown_dye
+- minecraft:brown_dye
+
+#balm:yellow_dyes
+- #c:yellow_dyes?
+- minecraft:yellow_dye
+
+#c:nickel_small_dusts
+- techreborn:nickel_small_dust
+
+#c:tungstensteel_nuggets
+- techreborn:tungstensteel_nugget
+
+#c:light_gray_dye
+- minecraft:light_gray_dye
+
+#forge:cobblestone/deepslate
+- minecraft:cobbled_deepslate
+
+#c:cinnabar_ores
+- techreborn:cinnabar_ore
+
+#c:tin_plates
+- techreborn:tin_plate
+
+#ae2:interface
+- ae2:cable_interface
+- ae2:interface
+
+#techreborn:ingots
+- techreborn:advanced_alloy_ingot
+- techreborn:aluminum_ingot
+- techreborn:brass_ingot
+- techreborn:bronze_ingot
+- techreborn:chrome_ingot
+- techreborn:electrum_ingot
+- techreborn:hot_tungstensteel_ingot
+- techreborn:invar_ingot
+- techreborn:iridium_alloy_ingot
+- techreborn:iridium_ingot
+- techreborn:lead_ingot
+- techreborn:mixed_metal_ingot
+- techreborn:nickel_ingot
+- techreborn:platinum_ingot
+- techreborn:refined_iron_ingot
+- techreborn:silver_ingot
+- techreborn:steel_ingot
+- techreborn:tin_ingot
+- techreborn:titanium_ingot
+- techreborn:tungsten_ingot
+- techreborn:tungstensteel_ingot
+- techreborn:zinc_ingot
+
+#c:chromium_plates
+- techreborn:chrome_plate
+
+#forge:fence_gates
+- #forge:fence_gates/wooden
+
+#forge:ingots
+- #forge:ingots/brick
+- #forge:ingots/copper
+- #forge:ingots/gold
+- #forge:ingots/iron
+- #forge:ingots/netherite
+- #forge:ingots/nether_brick
+
+#terralith:spire/diamond
+- minecraft:diamond
+- minecraft:diamond_ore
+- minecraft:deepslate_diamond_ore
+
+#forge:crops/nether_wart
+- minecraft:nether_wart
+
+#forge:storage_blocks/copper
+- minecraft:copper_block
+- minecraft:cut_copper
+
+#minecraft:coals
+- minecraft:coal
+- minecraft:charcoal
+
+#c:pink_glass
+- #c:pink_glass_blocks
+- #c:pink_glass_panes
+- #c:pink_glass_slabs
+- #c:pink_glass_stairs
+
+#c:quartz_ores
+- minecraft:nether_quartz_ore
+- minecraft:nether_quartz_ore
+
+#c:lead_plates
+- techreborn:lead_plate
+
+#c:quartz_plates
+- techreborn:quartz_plate
+
+#fabric:raw_fishes
+- #fabric:raw_fishes/cod
+- #fabric:raw_fishes/salmon
+- #fabric:raw_fishes/tropical_fish
+
+#c:gray_glass_blocks
+- minecraft:gray_stained_glass
+
+#c:emerald_ores
+- minecraft:emerald_ore
+- minecraft:deepslate_emerald_ore
+
+#c:magenta_glass_slabs
+- mo_glass:magenta_stained_glass_slab
+
+#forge:ingots/nether_brick
+- minecraft:nether_brick
+
+#forge:cobblestone/infested
+- minecraft:infested_cobblestone
+
+#c:lead_ingots
+- techreborn:lead_ingot
+
+#forge:storage_blocks/lapis
+- minecraft:lapis_block
+
+#ae2:glass_cable
+- ae2:white_glass_cable
+- ae2:orange_glass_cable
+- ae2:magenta_glass_cable
+- ae2:light_blue_glass_cable
+- ae2:yellow_glass_cable
+- ae2:lime_glass_cable
+- ae2:pink_glass_cable
+- ae2:gray_glass_cable
+- ae2:light_gray_glass_cable
+- ae2:cyan_glass_cable
+- ae2:purple_glass_cable
+- ae2:blue_glass_cable
+- ae2:brown_glass_cable
+- ae2:green_glass_cable
+- ae2:red_glass_cable
+- ae2:black_glass_cable
+- ae2:fluix_glass_cable
+
+#forge:dyes/orange
+- minecraft:orange_dye
+
+#c:redstone_dusts
+- minecraft:redstone
+- minecraft:redstone
+
+#c:yellow_garnet_dusts
+- techreborn:yellow_garnet_dust
+
+#c:magnesium_small_dusts
+- techreborn:magnesium_small_dust
+
+#c:calcite_small_dusts
+- techreborn:calcite_small_dust
+
+#c:diamond_plates
+- techreborn:diamond_plate
+
+#c:tin_ingots
+- techreborn:tin_ingot
+
+#forge:glass/white
+- minecraft:white_stained_glass
+
+#forge:glass_panes/red
+- minecraft:red_stained_glass_pane
+
+#c:workbench
+- minecraft:crafting_table
+
+#c:refined_iron_blocks
+- techreborn:refined_iron_storage_block
+
+#c:white_glass_slabs
+- mo_glass:white_stained_glass_slab
+
+#minecraft:fishes
+- minecraft:cod
+- minecraft:cooked_cod
+- minecraft:salmon
+- minecraft:cooked_salmon
+- minecraft:pufferfish
+- minecraft:tropical_fish
+
+#c:cyan_glass
+- #c:cyan_glass_blocks
+- #c:cyan_glass_panes
+- #c:cyan_glass_slabs
+- #c:cyan_glass_stairs
+
+#comforts:hammocks
+- comforts:hammock_black
+- comforts:hammock_blue
+- comforts:hammock_brown
+- comforts:hammock_cyan
+- comforts:hammock_gray
+- comforts:hammock_green
+- comforts:hammock_light_blue
+- comforts:hammock_light_gray
+- comforts:hammock_lime
+- comforts:hammock_magenta
+- comforts:hammock_orange
+- comforts:hammock_pink
+- comforts:hammock_purple
+- comforts:hammock_red
+- comforts:hammock_white
+- comforts:hammock_yellow
+
+#c:brass_plates
+- techreborn:brass_plate
+
+#mo_glass:glass_stairs
+- mo_glass:glass_stairs
+- #mo_glass:colored_glass_stairs
+- mo_glass:tinted_glass_stairs
+
+#reborncore:water_explosion
+- techreborn:sodium_bucket
+
+#c:olivine_dusts
+- techreborn:olivine_dust
+
+#c:bauxite_ores
+- techreborn:bauxite_ore
+- techreborn:deepslate_bauxite_ore
+
+#c:coal_small_dusts
+- techreborn:coal_small_dust
+
+#c:gray_dyes
+- minecraft:gray_dye
+- minecraft:gray_dye
+
+#c:netherrack_small_dusts
+- techreborn:netherrack_small_dust
+
+#c:brass_ingots
+- techreborn:brass_ingot
+
+#c:flint_dusts
+- techreborn:flint_dust
+
+#forge:sand/colorless
+- minecraft:sand
+
+#minecraft:redstone_ores
+- minecraft:redstone_ore
+- minecraft:deepslate_redstone_ore
+
+#forge:raw_materials/iron
+- minecraft:raw_iron
+
+#c:amethyst_dusts
+- techreborn:amethyst_dust
+
+#c:light_blue_glass_panes
+- minecraft:light_blue_stained_glass_pane
+
+#c:red_glass_blocks
+- minecraft:red_stained_glass
+
+#columns:columns
+- blockus:polished_basalt_brick_column?
+- blockus:limestone_column?
+- blockus:small_marble_brick_column?
+- blockus:small_magma_brick_column?
+- blockus:green_stone_brick_column?
+- blockus:lava_polished_blackstone_brick_column?
+- blockus:yellow_concrete_brick_column?
+- blockus:crimson_warty_blackstone_brick_column?
+- blockus:magenta_stone_brick_column?
+- blockus:brown_stone_brick_column?
+- blockus:cyan_concrete_brick_column?
+- blockus:brown_concrete_brick_column?
+- blockus:lime_concrete_brick_column?
+- blockus:small_limestone_brick_column?
+- blockus:white_concrete_brick_column?
+- blockus:small_soul_sandstone_brick_column?
+- blockus:black_concrete_brick_column?
+- blockus:sandy_brick_column?
+- blockus:granite_brick_column?
+- blockus:magma_brick_column?
+- blockus:small_phantom_purpur_brick_column?
+- blockus:pink_stone_brick_column?
+- blockus:warped_warty_blackstone_brick_column?
+- blockus:small_red_sandstone_brick_column?
+- blockus:sandstone_brick_column?
+- blockus:blue_stone_brick_column?
+- blockus:limestone_tile_column?
+- blockus:cyan_stone_brick_column?
+- blockus:black_stone_brick_column?
+- blockus:small_sandstone_brick_column?
+- blockus:red_stone_brick_column?
+- blockus:stone_tile_column?
+- blockus:bluestone_tile_column?
+- blockus:ice_brick_column?
+- blockus:charred_brick_column?
+- blockus:phantom_purpur_brick_column?
+- blockus:small_purpur_brick_column?
+- blockus:lava_brick_column?
+- blockus:small_obsidian_brick_column?
+- blockus:soaked_brick_column?
+- blockus:marble_column?
+- blockus:light_gray_concrete_brick_column?
+- blockus:soul_sandstone_column?
+- blockus:rainbow_brick_column?
+- blockus:pink_concrete_brick_column?
+- blockus:marble_tile_column?
+- blockus:blaze_brick_column?
+- blockus:viridite_tile_column?
+- blockus:netherrack_brick_column?
+- blockus:charred_nether_brick_column?
+- blockus:tuff_brick_column?
+- blockus:obsidian_brick_column?
+- blockus:soul_sandstone_brick_column?
+- blockus:water_brick_column?
+- blockus:blue_concrete_brick_column?
+- blockus:dripstone_brick_column?
+- blockus:teal_nether_brick_column?
+- blockus:viridite_column?
+- blockus:bluestone_column?
+- blockus:marble_brick_column?
+- blockus:gray_stone_brick_column?
+- blockus:andesite_brick_column?
+- blockus:snow_brick_column?
+- blockus:honeycomb_brick_column?
+- blockus:orange_stone_brick_column?
+- blockus:quartz_tile_column?
+- blockus:red_concrete_brick_column?
+- blockus:light_blue_stone_brick_column?
+- blockus:magenta_concrete_brick_column?
+- blockus:polished_blackstone_tile_column?
+- blockus:orange_concrete_brick_column?
+- blockus:mossy_deepslate_brick_column?
+- blockus:gray_concrete_brick_column?
+- blockus:limestone_brick_column?
+- blockus:small_bluestone_brick_column?
+- blockus:purple_concrete_brick_column?
+- blockus:bluestone_brick_column?
+- blockus:viridite_brick_column?
+- blockus:yellow_stone_brick_column?
+- blockus:light_blue_concrete_brick_column?
+- blockus:lime_stone_brick_column?
+- blockus:red_sandstone_brick_column?
+- blockus:purple_stone_brick_column?
+- blockus:diorite_brick_column?
+- blockus:small_end_stone_brick_column?
+- blockus:purpur_brick_column?
+- blockus:white_stone_brick_column?
+- blockus:small_viridite_brick_column?
+- blockus:large_brick_column?
+- blockus:green_concrete_brick_column?
+
+#c:lead_ores
+- techreborn:lead_ore
+- techreborn:deepslate_lead_ore
+
+#forge:gems/diamond
+- minecraft:diamond
+
+#minecraft:walls
+- minecraft:cobblestone_wall
+- minecraft:mossy_cobblestone_wall
+- minecraft:brick_wall
+- minecraft:prismarine_wall
+- minecraft:red_sandstone_wall
+- minecraft:mossy_stone_brick_wall
+- minecraft:granite_wall
+- minecraft:stone_brick_wall
+- minecraft:nether_brick_wall
+- minecraft:andesite_wall
+- minecraft:red_nether_brick_wall
+- minecraft:sandstone_wall
+- minecraft:end_stone_brick_wall
+- minecraft:diorite_wall
+- minecraft:blackstone_wall
+- minecraft:polished_blackstone_brick_wall
+- minecraft:polished_blackstone_wall
+- minecraft:cobbled_deepslate_wall
+- minecraft:polished_deepslate_wall
+- minecraft:deepslate_tile_wall
+- minecraft:deepslate_brick_wall
+- architects_palette:myonite_wall
+- architects_palette:myonite_brick_wall
+- architects_palette:mushy_myonite_brick_wall
+- architects_palette:olivestone_brick_wall
+- architects_palette:olivestone_tile_wall
+- architects_palette:algal_brick_wall
+- architects_palette:overgrown_algal_brick_wall
+- architects_palette:coal_ore_brick_wall
+- architects_palette:lapis_ore_brick_wall
+- architects_palette:redstone_ore_brick_wall
+- architects_palette:iron_ore_brick_wall
+- architects_palette:gold_ore_brick_wall
+- architects_palette:emerald_ore_brick_wall
+- architects_palette:diamond_ore_brick_wall
+- architects_palette:osseous_brick_wall
+- architects_palette:withered_osseous_brick_wall
+- architects_palette:flint_tile_wall
+- architects_palette:polished_packed_ice_wall
+- architects_palette:plating_wall
+- architects_palette:warpstone_wall
+- architects_palette:basalt_tile_wall
+- architects_palette:tuff_brick_wall
+- architects_palette:calcite_brick_wall
+- architects_palette:dripstone_brick_wall
+- blockus:blaze_brick_wall
+- blockus:lava_brick_wall
+- blockus:soul_sandstone_wall
+- blockus:charred_nether_brick_wall
+- blockus:soaked_brick_wall
+- blockus:magma_brick_wall
+- blockus:netherrack_brick_wall
+- blockus:small_magma_brick_wall
+- blockus:limestone_brick_wall
+- blockus:small_limestone_brick_wall
+- blockus:obsidian_brick_wall
+- blockus:small_obsidian_brick_wall
+- blockus:rainbow_brick_wall
+- blockus:water_brick_wall
+- blockus:marble_brick_wall
+- blockus:small_marble_brick_wall
+- blockus:honeycomb_brick_wall
+- blockus:sandy_brick_wall
+- blockus:charred_brick_wall
+- blockus:teal_nether_brick_wall
+- blockus:stone_tile_wall
+- blockus:polished_blackstone_tile_wall
+- blockus:lava_polished_blackstone_wall
+- blockus:crimson_warty_blackstone_brick_wall
+- blockus:warped_warty_blackstone_brick_wall
+- blockus:snow_brick_wall
+- blockus:ice_brick_wall
+- blockus:polished_basalt_brick_wall
+- blockus:bluestone_brick_wall
+- blockus:small_bluestone_brick_wall
+- blockus:purpur_brick_wall
+- blockus:small_purpur_brick_wall
+- blockus:andesite_brick_wall
+- blockus:diorite_brick_wall
+- blockus:granite_brick_wall
+- blockus:limestone_wall
+- blockus:limestone_tile_wall
+- blockus:marble_wall
+- blockus:marble_tile_wall
+- blockus:bluestone_wall
+- blockus:bluestone_tile_wall
+- blockus:sandstone_brick_wall
+- blockus:small_sandstone_brick_wall
+- blockus:red_sandstone_brick_wall
+- blockus:small_red_sandstone_brick_wall
+- blockus:soul_sandstone_brick_wall
+- blockus:small_soul_sandstone_brick_wall
+- blockus:purpur_brick_wall
+- blockus:phantom_purpur_brick_wall
+- blockus:small_phantom_purpur_brick_wall
+- blockus:quartz_tile_wall
+- blockus:large_brick_wall
+- blockus:mossy_deepslate_brick_wall
+- blockus:dripstone_brick_wall
+- blockus:tuff_brick_wall
+- blockus:small_end_stone_brick_wall
+- blockus:white_stone_brick_wall
+- blockus:orange_stone_brick_wall
+- blockus:magenta_stone_brick_wall
+- blockus:light_blue_stone_brick_wall
+- blockus:yellow_stone_brick_wall
+- blockus:lime_stone_brick_wall
+- blockus:pink_stone_brick_wall
+- blockus:gray_stone_brick_wall
+- blockus:cyan_stone_brick_wall
+- blockus:purple_stone_brick_wall
+- blockus:blue_stone_brick_wall
+- blockus:brown_stone_brick_wall
+- blockus:green_stone_brick_wall
+- blockus:red_stone_brick_wall
+- blockus:black_stone_brick_wall
+- blockus:white_concrete_brick_wall
+- blockus:orange_concrete_brick_wall
+- blockus:magenta_concrete_brick_wall
+- blockus:light_blue_concrete_brick_wall
+- blockus:yellow_concrete_brick_wall
+- blockus:lime_concrete_brick_wall
+- blockus:pink_concrete_brick_wall
+- blockus:gray_concrete_brick_wall
+- blockus:light_gray_concrete_brick_wall
+- blockus:cyan_concrete_brick_wall
+- blockus:purple_concrete_brick_wall
+- blockus:blue_concrete_brick_wall
+- blockus:brown_concrete_brick_wall
+- blockus:green_concrete_brick_wall
+- blockus:red_concrete_brick_wall
+- blockus:black_concrete_brick_wall
+- blockus:amethyst_brick_wall
+- blockus:viridite_wall
+- blockus:viridite_brick_wall
+- blockus:small_viridite_brick_wall
+- blockus:viridite_tile_wall
+- #blockus:barriers
+- ecologics:seashell_tile_wall
+- ecologics:snow_brick_wall
+- ecologics:ice_brick_wall
+
+#chiselsandbits:bit_bag
+- chiselsandbits:bit_bag
+- chiselsandbits:bit_bag_dyed
+
+#ae2:all_fluix
+- ae2:fluix_crystal
+
+#balm:gray_dyes
+- #c:gray_dyes?
+- minecraft:gray_dye
+
+#c:quartz_small_dusts
+- techreborn:quartz_small_dust
+
+#minecraft:music_discs
+- #minecraft:creeper_drop_music_discs
+- minecraft:music_disc_pigstep
+- minecraft:music_disc_otherside
+- ecologics:music_disc_coconut
+
+#yigd:random_delete_blacklist
+
+#c:living_coral_fans
+- minecraft:tube_coral_fan
+- minecraft:brain_coral_fan
+- minecraft:bubble_coral_fan
+- minecraft:fire_coral_fan
+- minecraft:horn_coral_fan
+
+#c:dark_glass_blocks
+- minecraft:tinted_glass
+
+#c:blue_dyes
+- minecraft:blue_dye
+- minecraft:blue_dye
+
+#forge:gems
+- #forge:gems/amethyst
+- #forge:gems/diamond
+- #forge:gems/emerald
+- #forge:gems/lapis
+- #forge:gems/prismarine
+- #forge:gems/quartz
+
+#c:ender_eye_small_dusts
+- techreborn:ender_eye_small_dust
+
+#minecraft:sand
+- minecraft:sand
+- minecraft:red_sand
+
+#c:colored_glass_slabs
+- mo_glass:white_stained_glass_slab
+- mo_glass:orange_stained_glass_slab
+- mo_glass:magenta_stained_glass_slab
+- mo_glass:light_blue_stained_glass_slab
+- mo_glass:yellow_stained_glass_slab
+- mo_glass:lime_stained_glass_slab
+- mo_glass:pink_stained_glass_slab
+- mo_glass:gray_stained_glass_slab
+- mo_glass:light_gray_stained_glass_slab
+- mo_glass:cyan_stained_glass_slab
+- mo_glass:purple_stained_glass_slab
+- mo_glass:blue_stained_glass_slab
+- mo_glass:brown_stained_glass_slab
+- mo_glass:green_stained_glass_slab
+- mo_glass:red_stained_glass_slab
+- mo_glass:black_stained_glass_slab
+
+#c:planks_that_burn
+- minecraft:oak_planks
+- minecraft:spruce_planks
+- minecraft:birch_planks
+- minecraft:jungle_planks
+- minecraft:acacia_planks
+- minecraft:dark_oak_planks
+- blockus:bamboo_planks
+- blockus:white_oak_planks
+- blockus:legacy_planks
+- blockus:herringbone_oak_planks
+- blockus:herringbone_birch_planks
+- blockus:herringbone_spruce_planks
+- blockus:herringbone_jungle_planks
+- blockus:herringbone_acacia_planks
+- blockus:herringbone_dark_oak_planks
+- blockus:herringbone_white_oak_planks
+- blockus:herringbone_bamboo_planks
+- techreborn:rubber_planks
+
+#forge:dyes/light_gray
+- minecraft:light_gray_dye
+
+#c:refined_iron_nuggets
+- techreborn:refined_iron_nugget
+
+#toolstats:ignore_enchantability
+
+#forge:ingots/copper
+- minecraft:copper_ingot
+
+#fabric:seeds/rice
+- farmersdelight:rice
+
+#forge:glass/blue
+- minecraft:blue_stained_glass
+
+#fabric:raw_beef
+- minecraft:beef
+- farmersdelight:minced_beef
+
+#c:yellow_garnet_blocks
+- techreborn:yellow_garnet_storage_block
+
+#fabric:milk/milk_bottle
+- farmersdelight:milk_bottle
+
+#minecraft:wooden_trapdoors
+- minecraft:acacia_trapdoor
+- minecraft:birch_trapdoor
+- minecraft:dark_oak_trapdoor
+- minecraft:jungle_trapdoor
+- minecraft:oak_trapdoor
+- minecraft:spruce_trapdoor
+- minecraft:crimson_trapdoor
+- minecraft:warped_trapdoor
+- architects_palette:twisted_trapdoor
+- blockus:bamboo_trapdoor
+- blockus:charred_trapdoor
+- blockus:white_oak_trapdoor
+- ecologics:coconut_trapdoor
+- ecologics:walnut_trapdoor
+- ecologics:azalea_trapdoor
+- ecologics:flowering_azalea_trapdoor
+- techreborn:rubber_trapdoor
+- twigs:stripped_bamboo_trapdoor
+
+#forge:storage_blocks/coal
+- minecraft:coal_block
+
+#architects_palette:olivestone
+- architects_palette:olivestone_tiles
+- architects_palette:olivestone_bricks
+
+#forge:glass/light_blue
+- minecraft:light_blue_stained_glass
+
+#decorative_blocks:chandeliers
+- decorative_blocks:chandelier
+- decorative_blocks:soul_chandelier
+
+#c:dark_glass_slabs
+- mo_glass:tinted_glass_slab
+
+#c:netherite_ingots
+- minecraft:netherite_ingot
+
+#forge:storage_blocks/amethyst
+- minecraft:amethyst_block
+
+#c:light_gray_glass_slabs
+- mo_glass:light_gray_stained_glass_slab
+
+#minecraft:arrows
+- minecraft:arrow
+- minecraft:tipped_arrow
+- minecraft:spectral_arrow
+- adventurez:ivory_arrow
+
+#c:aluminum_blocks
+- techreborn:aluminum_storage_block
+
+#c:pickaxes
+- #fabric:pickaxes?
+- minecraft:diamond_pickaxe
+- minecraft:golden_pickaxe
+- minecraft:wooden_pickaxe
+- minecraft:stone_pickaxe
+- minecraft:iron_pickaxe
+- minecraft:netherite_pickaxe
+
+#c:red_dye
+- minecraft:red_dye
+
+#c:slime_balls
+- minecraft:slime_ball
+
+#minecraft:wooden_doors
+- minecraft:oak_door
+- minecraft:spruce_door
+- minecraft:birch_door
+- minecraft:jungle_door
+- minecraft:acacia_door
+- minecraft:dark_oak_door
+- minecraft:crimson_door
+- minecraft:warped_door
+- architects_palette:twisted_door
+- blockus:bamboo_door
+- blockus:charred_door
+- blockus:white_oak_door
+- ecologics:coconut_door
+- ecologics:walnut_door
+- ecologics:azalea_door
+- ecologics:flowering_azalea_door
+- techreborn:rubber_door
+- twigs:stripped_bamboo_door
+
+#c:magnalium_plates
+- techreborn:magnalium_plate
+
+#c:wooden_barrels
+- #blockus:barrels
+- minecraft:barrel
+
+#c:iridium_nuggets
+- techreborn:iridium_nugget
+
+#c:bronze_nuggets
+- techreborn:bronze_nugget
+
+#forge:glass/purple
+- minecraft:purple_stained_glass
+
+#blockus:soul_soils
+- minecraft:soul_sand
+- minecraft:soul_soil
+
+#c:netherrack_dusts
+- techreborn:netherrack_dust
+
+#forge:dyes/magenta
+- minecraft:magenta_dye
+
+#minecraft:crimson_stems
+- minecraft:crimson_stem
+- minecraft:stripped_crimson_stem
+- minecraft:crimson_hyphae
+- minecraft:stripped_crimson_hyphae
+- blockus:crimson_small_stems
+- decorative_blocks:crimson_beam
+
+#balm:wooden_rods
+- #c:wooden_rods?
+- minecraft:stick
+
+#fabric:tools/shovels
+- minecraft:wooden_shovel
+- minecraft:stone_shovel
+- minecraft:iron_shovel
+- minecraft:diamond_shovel
+- minecraft:golden_shovel
+- minecraft:netherite_shovel
+
+#minecraft:ignored_by_piglin_babies
+- minecraft:leather
+- techreborn:electrum_nugget
+- techreborn:electrum_ingot
+
+#toolstats:ignore_dig_speed
+
+#minecraft:stone_tool_materials
+- minecraft:cobblestone
+- minecraft:blackstone
+- minecraft:cobbled_deepslate
+- minecraft:cobblestone
+- minecraft:blackstone
+- minecraft:cobbled_deepslate
+- minecraft:granite
+- minecraft:andesite
+- minecraft:diorite
+
+#forge:dyes/cyan
+- minecraft:cyan_dye
+
+#minecraft:terracotta
+- minecraft:terracotta
+- minecraft:white_terracotta
+- minecraft:orange_terracotta
+- minecraft:magenta_terracotta
+- minecraft:light_blue_terracotta
+- minecraft:yellow_terracotta
+- minecraft:lime_terracotta
+- minecraft:pink_terracotta
+- minecraft:gray_terracotta
+- minecraft:light_gray_terracotta
+- minecraft:cyan_terracotta
+- minecraft:purple_terracotta
+- minecraft:blue_terracotta
+- minecraft:brown_terracotta
+- minecraft:green_terracotta
+- minecraft:red_terracotta
+- minecraft:black_terracotta
+
+#c:green_glass
+- #c:green_glass_blocks
+- #c:green_glass_panes
+- #c:green_glass_slabs
+- #c:green_glass_stairs
+
+#fabric:tools/knives
+- farmersdelight:flint_knife
+- farmersdelight:iron_knife
+- farmersdelight:diamond_knife
+- farmersdelight:golden_knife
+- farmersdelight:netherite_knife
+
+#fabric:raw_fishes/salmon
+- minecraft:salmon
+- farmersdelight:salmon_slice
+
+#c:nickel_plates
+- techreborn:nickel_plate
+
+#c:pink_glass_slabs
+- mo_glass:pink_stained_glass_slab
+
+#forge:dyes/purple
+- minecraft:purple_dye
+
+#c:hot_tungstensteel_blocks
+- techreborn:hot_tungstensteel_storage_block
+
+#forge:ores_in_ground/deepslate
+- minecraft:deepslate_coal_ore
+- minecraft:deepslate_copper_ore
+- minecraft:deepslate_diamond_ore
+- minecraft:deepslate_emerald_ore
+- minecraft:deepslate_gold_ore
+- minecraft:deepslate_iron_ore
+- minecraft:deepslate_lapis_ore
+- minecraft:deepslate_redstone_ore
+
+#decorative_blocks:palisades
+- decorative_blocks:spruce_palisade
+- decorative_blocks:acacia_palisade
+- decorative_blocks:dark_oak_palisade
+- decorative_blocks:warped_palisade
+- decorative_blocks:birch_palisade
+- decorative_blocks:jungle_palisade
+- decorative_blocks:oak_palisade
+- decorative_blocks:crimson_palisade
+
+#c:coal_ores
+- minecraft:coal_ore
+- minecraft:deepslate_coal_ore
+
+#c:sodalite_ores
+- techreborn:sodalite_ore
+- techreborn:deepslate_sodalite_ore
+
+#c:platinum_ingots
+- techreborn:platinum_ingot
+
+#c:glass_panes
+- minecraft:glass_pane
+- minecraft:gray_stained_glass_pane
+- minecraft:black_stained_glass_pane
+- minecraft:orange_stained_glass_pane
+- minecraft:blue_stained_glass_pane
+- minecraft:brown_stained_glass_pane
+- minecraft:cyan_stained_glass_pane
+- minecraft:green_stained_glass_pane
+- minecraft:light_blue_stained_glass_pane
+- minecraft:light_gray_stained_glass_pane
+- minecraft:lime_stained_glass_pane
+- minecraft:magenta_stained_glass_pane
+- minecraft:pink_stained_glass_pane
+- minecraft:purple_stained_glass_pane
+- minecraft:red_stained_glass_pane
+- minecraft:white_stained_glass_pane
+- minecraft:yellow_stained_glass_pane
+- #c:clear_glass_panes
+- #c:colored_glass_panes
+
+#forge:storage_blocks/raw_gold
+- minecraft:raw_gold_block
+
+#c:chromium_dusts
+- techreborn:chrome_dust
+
+#c:gray_glass_slabs
+- mo_glass:gray_stained_glass_slab
+
+#forge:gems/prismarine
+- minecraft:prismarine_crystals
+
+#forge:ores/gold
+- #minecraft:gold_ores
+
+#c:ruby_ores
+- techreborn:ruby_ore
+- techreborn:deepslate_ruby_ore
+
+#forge:raw_materials
+- #forge:raw_materials/copper
+- #forge:raw_materials/gold
+- #forge:raw_materials/iron
+
+#c:raw_copper_ores
+- minecraft:raw_copper
+
+#c:orange_dyes
+- minecraft:orange_dye
+- minecraft:orange_dye
+
+#c:shears
+- minecraft:shears
+- #fabric:shears?
+- minecraft:shears
+
+#c:electrum_dusts
+- techreborn:electrum_dust
+
+#c:red_glass_panes
+- minecraft:red_stained_glass_pane
+
+#forge:glass/lime
+- minecraft:lime_stained_glass
+
+#forge:chests/wooden
+- minecraft:chest
+- minecraft:trapped_chest
+
+#forge:gems/emerald
+- minecraft:emerald
+
+#c:cyan_glass_stairs
+- mo_glass:cyan_stained_glass_stairs
+
+#balm:brown_dyes
+- #c:brown_dyes?
+- minecraft:brown_dye
+
+#c:electrum_small_dusts
+- techreborn:electrum_small_dust
+
+#minecraft:carpets
+- minecraft:white_carpet
+- minecraft:orange_carpet
+- minecraft:magenta_carpet
+- minecraft:light_blue_carpet
+- minecraft:yellow_carpet
+- minecraft:lime_carpet
+- minecraft:pink_carpet
+- minecraft:gray_carpet
+- minecraft:light_gray_carpet
+- minecraft:cyan_carpet
+- minecraft:purple_carpet
+- minecraft:blue_carpet
+- minecraft:brown_carpet
+- minecraft:green_carpet
+- minecraft:red_carpet
+- minecraft:black_carpet
+- farmersdelight:full_tatami_mat
+- farmersdelight:half_tatami_mat
+
+#techreborn:calcite_dust_material
+- minecraft:calcite
+- #c:coral_blocks
+- minecraft:dripstone_block
+
+#c:slimeballs
+- minecraft:slime_ball
+
+#c:yellow_garnet_gems
+- techreborn:yellow_garnet_gem
+
+#c:marble_dusts
+- techreborn:marble_dust
+
+#fabric:cooked_beef
+- minecraft:cooked_beef
+- farmersdelight:beef_patty
+
+#minecraft:stone_bricks
+- minecraft:stone_bricks
+- minecraft:mossy_stone_bricks
+- minecraft:cracked_stone_bricks
+- minecraft:chiseled_stone_bricks
+
+#c:strings
+- minecraft:string
+
+#balm:black_dyes
+- minecraft:black_dye
+- #c:black_dyes?
+
+#c:orange_glass
+- #c:orange_glass_blocks
+- #c:orange_glass_panes
+- #c:orange_glass_slabs
+- #c:orange_glass_stairs
+
+#c:iron_ores
+- minecraft:iron_ores?
+- minecraft:iron_ore
+- minecraft:deepslate_iron_ore
+
+#forge:glass/orange
+- minecraft:orange_stained_glass
+
+#c:galena_dusts
+- techreborn:galena_dust
+
+#ae2:blacklisted/annihilation_plane
+
+#c:brown_glass
+- #c:brown_glass_blocks
+- #c:brown_glass_panes
+- #c:brown_glass_slabs
+- #c:brown_glass_stairs
+
+#forge:paper
+- minecraft:paper
+
+#minecraft:slabs
+- #minecraft:wooden_slabs
+- minecraft:stone_slab
+- minecraft:smooth_stone_slab
+- minecraft:stone_brick_slab
+- minecraft:sandstone_slab
+- minecraft:purpur_slab
+- minecraft:quartz_slab
+- minecraft:red_sandstone_slab
+- minecraft:brick_slab
+- minecraft:cobblestone_slab
+- minecraft:nether_brick_slab
+- minecraft:petrified_oak_slab
+- minecraft:prismarine_slab
+- minecraft:prismarine_brick_slab
+- minecraft:dark_prismarine_slab
+- minecraft:polished_granite_slab
+- minecraft:smooth_red_sandstone_slab
+- minecraft:mossy_stone_brick_slab
+- minecraft:polished_diorite_slab
+- minecraft:mossy_cobblestone_slab
+- minecraft:end_stone_brick_slab
+- minecraft:smooth_sandstone_slab
+- minecraft:smooth_quartz_slab
+- minecraft:granite_slab
+- minecraft:andesite_slab
+- minecraft:red_nether_brick_slab
+- minecraft:polished_andesite_slab
+- minecraft:diorite_slab
+- minecraft:cut_sandstone_slab
+- minecraft:cut_red_sandstone_slab
+- minecraft:blackstone_slab
+- minecraft:polished_blackstone_brick_slab
+- minecraft:polished_blackstone_slab
+- minecraft:cobbled_deepslate_slab
+- minecraft:polished_deepslate_slab
+- minecraft:deepslate_tile_slab
+- minecraft:deepslate_brick_slab
+- minecraft:waxed_weathered_cut_copper_slab
+- minecraft:waxed_exposed_cut_copper_slab
+- minecraft:waxed_cut_copper_slab
+- minecraft:oxidized_cut_copper_slab
+- minecraft:weathered_cut_copper_slab
+- minecraft:exposed_cut_copper_slab
+- minecraft:cut_copper_slab
+- minecraft:waxed_oxidized_cut_copper_slab
+- architects_palette:abyssaline_brick_slab
+- architects_palette:myonite_slab
+- architects_palette:myonite_brick_slab
+- architects_palette:mushy_myonite_brick_slab
+- architects_palette:olivestone_brick_slab
+- architects_palette:olivestone_tile_slab
+- architects_palette:algal_brick_slab
+- architects_palette:overgrown_algal_brick_slab
+- architects_palette:coal_ore_brick_slab
+- architects_palette:lapis_ore_brick_slab
+- architects_palette:redstone_ore_brick_slab
+- architects_palette:iron_ore_brick_slab
+- architects_palette:gold_ore_brick_slab
+- architects_palette:emerald_ore_brick_slab
+- architects_palette:diamond_ore_brick_slab
+- architects_palette:polished_packed_ice_slab
+- architects_palette:sunmetal_slab
+- architects_palette:osseous_brick_slab
+- architects_palette:withered_osseous_brick_slab
+- architects_palette:flint_tile_slab
+- architects_palette:entwine_slab
+- architects_palette:polished_glowstone_slab
+- architects_palette:gilded_sandstone_slab
+- architects_palette:plating_slab
+- architects_palette:warpstone_slab
+- architects_palette:basalt_tile_slab
+- architects_palette:abyssaline_tile_slab
+- architects_palette:entrails_slab
+- architects_palette:tuff_brick_slab
+- architects_palette:calcite_brick_slab
+- architects_palette:dripstone_brick_slab
+- ecologics:seashell_tile_slab
+- ecologics:snow_brick_slab
+- ecologics:ice_brick_slab
+- mo_glass:glass_slab
+- mo_glass:white_stained_glass_slab
+- mo_glass:orange_stained_glass_slab
+- mo_glass:magenta_stained_glass_slab
+- mo_glass:light_blue_stained_glass_slab
+- mo_glass:yellow_stained_glass_slab
+- mo_glass:lime_stained_glass_slab
+- mo_glass:pink_stained_glass_slab
+- mo_glass:gray_stained_glass_slab
+- mo_glass:light_gray_stained_glass_slab
+- mo_glass:cyan_stained_glass_slab
+- mo_glass:purple_stained_glass_slab
+- mo_glass:blue_stained_glass_slab
+- mo_glass:brown_stained_glass_slab
+- mo_glass:green_stained_glass_slab
+- mo_glass:red_stained_glass_slab
+- mo_glass:black_stained_glass_slab
+- mo_glass:tinted_glass_slab
+- techreborn:rubber_plank_slab
+
+#c:orange_glass_panes
+- minecraft:orange_stained_glass_pane
+
+#c:coal
+- #minecraft:coals?
+
+#c:pyrope_small_dusts
+- techreborn:pyrope_small_dust
+
+#c:titanium_dusts
+- techreborn:titanium_dust
+
+#c:saw_dusts
+- techreborn:saw_dust
+
+#minecraft:buttons
+- #minecraft:wooden_buttons
+- minecraft:stone_button
+- minecraft:polished_blackstone_button
+- blockus:polished_andesite_button
+- blockus:polished_diorite_button
+- blockus:polished_granite_button
+- blockus:limestone_button
+- blockus:marble_button
+- blockus:bluestone_button
+- blockus:polished_netherrack_button
+- blockus:polished_end_stone_button
+- blockus:viridite_button
+
+#c:small_corals_dead
+- #c:dead_coral_plants
+- #c:dead_coral_fans
+
+#farmersdelight:comfort_foods
+- minecraft:mushroom_stew
+- minecraft:beetroot_soup
+- minecraft:rabbit_stew
+
+#c:invar_plates
+- techreborn:invar_plate
+
+#c:small_corals_yellow
+- minecraft:horn_coral
+- minecraft:horn_coral_fan
+
+#ecologics:walnut_logs
+- ecologics:walnut_log
+- ecologics:stripped_walnut_log
+- ecologics:walnut_wood
+- ecologics:stripped_walnut_wood
+
+#c:tungsten_ingots
+- techreborn:tungsten_ingot
+
+#fabric:grain/rice
+- farmersdelight:rice
+
+#c:lead_nuggets
+- techreborn:lead_nugget
+
+#c:wooden_rods
+- minecraft:stick
+- minecraft:stick
+
+#minecraft:rails
+- minecraft:rail
+- minecraft:powered_rail
+- minecraft:detector_rail
+- minecraft:activator_rail
+
+#ae2:all_quartz_dust
+- #c:certus_quartz_dusts
+
+#c:yellow_dyes
+- minecraft:yellow_dye
+- minecraft:yellow_dye
+
+#fabric:crops/cabbage
+- farmersdelight:cabbage
+- farmersdelight:cabbage_leaf
+
+#c:yellow_dye
+- minecraft:yellow_dye
+
+#minecraft:wooden_pressure_plates
+- minecraft:oak_pressure_plate
+- minecraft:spruce_pressure_plate
+- minecraft:birch_pressure_plate
+- minecraft:jungle_pressure_plate
+- minecraft:acacia_pressure_plate
+- minecraft:dark_oak_pressure_plate
+- minecraft:crimson_pressure_plate
+- minecraft:warped_pressure_plate
+- architects_palette:twisted_pressure_plate
+- blockus:bamboo_pressure_plate
+- blockus:charred_pressure_plate
+- blockus:white_oak_pressure_plate
+- ecologics:coconut_pressure_plate
+- ecologics:walnut_pressure_plate
+- ecologics:azalea_pressure_plate
+- techreborn:rubber_pressure_plate
+- twigs:stripped_bamboo_pressure_plate
+
+#trinkets:legs/belt
+- arcanus:belt_of_the_rabbit?
+- arcanus:belt_of_rejuvenation?
+- artifacts:antidote_vessel
+- artifacts:cloud_in_a_bottle
+- artifacts:crystal_heart
+- artifacts:obsidian_skull
+- artifacts:universal_attractor
+- artifacts:helium_flamingo
+
+#c:chromium_small_dusts
+- techreborn:chrome_small_dust
+
+#ae2:smart_dense_cable
+- ae2:white_smart_dense_cable
+- ae2:orange_smart_dense_cable
+- ae2:magenta_smart_dense_cable
+- ae2:light_blue_smart_dense_cable
+- ae2:yellow_smart_dense_cable
+- ae2:lime_smart_dense_cable
+- ae2:pink_smart_dense_cable
+- ae2:gray_smart_dense_cable
+- ae2:light_gray_smart_dense_cable
+- ae2:cyan_smart_dense_cable
+- ae2:purple_smart_dense_cable
+- ae2:blue_smart_dense_cable
+- ae2:brown_smart_dense_cable
+- ae2:green_smart_dense_cable
+- ae2:red_smart_dense_cable
+- ae2:black_smart_dense_cable
+- ae2:fluix_smart_dense_cable
+
+#c:cobblestone
+- minecraft:cobblestone
+- minecraft:infested_cobblestone
+- minecraft:mossy_cobblestone
+
+#c:orange_glass_stairs
+- mo_glass:orange_stained_glass_stairs
+
+#c:pink_glass_blocks
+- minecraft:pink_stained_glass
+
+#balm:orange_dyes
+- #c:orange_dyes?
+- minecraft:orange_dye
+
+#minecraft:gold_ores
+- minecraft:gold_ore
+- minecraft:nether_gold_ore
+- minecraft:deepslate_gold_ore
+
+#fabric:vegetables
+- #fabric:vegetables/beetroot
+- #fabric:vegetables/carrot
+- #fabric:vegetables/onion
+- #fabric:vegetables/potato
+- #fabric:vegetables/tomato
+
+#c:tungsten_plates
+- techreborn:tungsten_plate
+
+#c:pyrite_dusts
+- techreborn:pyrite_dust
+
+#c:sapphire_ores
+- techreborn:sapphire_ore
+- techreborn:deepslate_sapphire_ore
+
+#c:ores
+- #c:certus_quartz_ores
+- #minecraft:iron_ores?
+- #minecraft:copper_ores?
+- #minecraft:redstone_ores?
+- #minecraft:gold_ores?
+- #minecraft:coal_ores?
+- #minecraft:diamond_ores?
+- #minecraft:lapis_ores?
+- #c:quartz_ores?
+- #minecraft:emerald_ores?
+
+#c:olivine_small_dusts
+- techreborn:olivine_small_dust
+
+#c:peridot_blocks
+- techreborn:peridot_storage_block
+
+#minecraft:cluster_max_harvestables
+- minecraft:diamond_pickaxe
+- minecraft:golden_pickaxe
+- minecraft:iron_pickaxe
+- minecraft:netherite_pickaxe
+- minecraft:stone_pickaxe
+- minecraft:wooden_pickaxe
+- techreborn:basic_drill
+- techreborn:advanced_drill
+- techreborn:industrial_drill
+- techreborn:omni_tool
+
+#c:ruby_small_dusts
+- techreborn:ruby_small_dust
+
+#c:basalt_small_dusts
+- techreborn:basalt_small_dust
+
+#c:lava_buckets
+- minecraft:lava_bucket
+
+#c:raw_iron_ores
+- minecraft:raw_iron
+
+#c:magenta_dyes
+- minecraft:magenta_dye
+- minecraft:magenta_dye
+
+#c:peridot_ores
+- techreborn:peridot_ore
+- techreborn:deepslate_peridot_ore
+
+#goblintraders:vein_goblin_trader_edibles
+- minecraft:carrot
+- minecraft:golden_carrot
+- endgoblintraders:enchanted_golden_carrot?
+
+#forge:gravel
+- minecraft:gravel
+
+#c:black_dyes
+- minecraft:black_dye
+- minecraft:black_dye
+
+#c:emerald_plates
+- techreborn:emerald_plate
+
+#forge:dyes/black
+- minecraft:black_dye
+
+#c:spessartine_small_dusts
+- techreborn:spessartine_small_dust
+
+#c:small_corals_red
+- minecraft:fire_coral
+- minecraft:fire_coral_fan
+
+#c:sphalerite_ores
+- techreborn:sphalerite_ore
+
+#c:fluix_dusts
+- ae2:fluix_dust
+
+#fabric:salad_ingredients/cabbage
+- farmersdelight:cabbage
+- farmersdelight:cabbage_leaf
+
+#c:refined_iron_ingots
+- techreborn:refined_iron_ingot
+
+#c:magnesium_dusts
+- techreborn:magnesium_dust
+
+#mo_glass:colored_glass_slabs
+- mo_glass:white_stained_glass_slab
+- mo_glass:orange_stained_glass_slab
+- mo_glass:magenta_stained_glass_slab
+- mo_glass:light_blue_stained_glass_slab
+- mo_glass:yellow_stained_glass_slab
+- mo_glass:lime_stained_glass_slab
+- mo_glass:pink_stained_glass_slab
+- mo_glass:gray_stained_glass_slab
+- mo_glass:light_gray_stained_glass_slab
+- mo_glass:cyan_stained_glass_slab
+- mo_glass:purple_stained_glass_slab
+- mo_glass:blue_stained_glass_slab
+- mo_glass:brown_stained_glass_slab
+- mo_glass:green_stained_glass_slab
+- mo_glass:red_stained_glass_slab
+- mo_glass:black_stained_glass_slab
+
+#c:clay_small_dusts
+- techreborn:clay_small_dust
+
+#c:lime_dye
+- minecraft:lime_dye
+
+#forge:glass_panes/light_blue
+- minecraft:light_blue_stained_glass_pane
+
+#c:lime_dyes
+- minecraft:lime_dye
+- minecraft:lime_dye
+
+#forge:ores/netherite_scrap
+- minecraft:ancient_debris
+
+#c:yellow_glass_blocks
+- minecraft:yellow_stained_glass
+
+#c:platinum_small_dusts
+- techreborn:platinum_small_dust
+
+#c:lime_glass
+- #c:lime_glass_blocks
+- #c:lime_glass_panes
+- #c:lime_glass_slabs
+- #c:lime_glass_stairs
+
+#forge:crops/carrot
+- minecraft:carrot
+
+#c:brass_blocks
+- techreborn:brass_storage_block
+
+#c:clear_glass
+- #c:clear_glass_blocks
+- #c:clear_glass_panes
+- #c:clear_glass_slabs
+- #c:clear_glass_stairs
+
+#minecraft:warped_stems
+- minecraft:warped_stem
+- minecraft:stripped_warped_stem
+- minecraft:warped_hyphae
+- minecraft:stripped_warped_hyphae
+- blockus:warped_small_stems
+- decorative_blocks:warped_beam
+
+#c:yellow_glass_panes
+- minecraft:yellow_stained_glass_pane
+
+#c:clear_glass_slabs
+- mo_glass:glass_slab
+
+#forge:dyes/blue
+- minecraft:blue_dye
+
+#fabric:tools/axes
+- minecraft:wooden_axe
+- minecraft:stone_axe
+- minecraft:iron_axe
+- minecraft:diamond_axe
+- minecraft:golden_axe
+- minecraft:netherite_axe
+
+#forge:storage_blocks/iron
+- minecraft:iron_block
+
+#c:coral_fans
+- #c:living_coral_fans
+- #c:dead_coral_fans
+
+#forge:glass_panes/brown
+- minecraft:brown_stained_glass_pane
+
+#forge:heads
+- minecraft:creeper_head
+- minecraft:dragon_head
+- minecraft:player_head
+- minecraft:skeleton_skull
+- minecraft:wither_skeleton_skull
+- minecraft:zombie_head
+
+#c:dark_ashes_dusts
+- techreborn:dark_ashes_dust
+
+#bookshelf:stones
+- #c:stones
+- #c:stone
+
+#balm:red_dyes
+- #c:red_dyes?
+- minecraft:red_dye
+
+#c:lapis_ores
+- minecraft:lapis_ore
+- minecraft:deepslate_lapis_ore
+
+#trinkets:offhand/glove
+- #trinkets:hand/glove
+- artifacts:digging_claws
+- artifacts:feral_claws
+- artifacts:fire_gauntlet
+- artifacts:pocket_piston
+- artifacts:power_glove
+- artifacts:vampiric_glove
+- artifacts:golden_hook
+
+#minecraft:dark_oak_logs
+- minecraft:dark_oak_log
+- minecraft:dark_oak_wood
+- minecraft:stripped_dark_oak_log
+- minecraft:stripped_dark_oak_wood
+- blockus:dark_oak_small_logs
+- decorative_blocks:dark_oak_beam
+
+#c:ruby_blocks
+- techreborn:ruby_storage_block
+
+#toolstats:ignored
+
+#c:silver_ingots
+- techreborn:silver_ingot
+
+#c:lazurite_plates
+- techreborn:lazurite_plate
+
+#fabric:mushrooms
+- minecraft:brown_mushroom
+- minecraft:red_mushroom
+
+#forge:mushrooms
+- minecraft:brown_mushroom
+- minecraft:red_mushroom
+
+#c:uvarovite_small_dusts
+- techreborn:uvarovite_small_dust
+
+#c:pyrite_ores
+- techreborn:pyrite_ore
+
+#c:green_glass_stairs
+- mo_glass:green_stained_glass_stairs
+
+#c:red_glass
+- #c:red_glass_blocks
+- #c:red_glass_panes
+- #c:red_glass_slabs
+- #c:red_glass_stairs
+
+#c:brown_dye
+- minecraft:brown_dye
+
+#silky_spawners:allowed_tools
+- dragonloot:dragon_pickaxe
+
+#minecraft:fences
+- #minecraft:wooden_fences
+- minecraft:nether_brick_fence
+- techreborn:rubber_fence
+- techreborn:refined_iron_fence
+
+#minecraft:saplings
+- minecraft:oak_sapling
+- minecraft:spruce_sapling
+- minecraft:birch_sapling
+- minecraft:jungle_sapling
+- minecraft:acacia_sapling
+- minecraft:dark_oak_sapling
+- minecraft:azalea
+- minecraft:flowering_azalea
+- architects_palette:twisted_sapling
+- blockus:white_oak_sapling
+- ecologics:coconut_husk
+- ecologics:walnut_sapling
+- ecologics:azalea_flower
+- techreborn:rubber_sapling
+
+#forge:ores/copper
+- #minecraft:copper_ores
+
+#c:diamond_dusts
+- techreborn:diamond_dust
+
+#c:stones
+- minecraft:stone
+- minecraft:andesite
+- minecraft:polished_andesite
+- minecraft:diorite
+- minecraft:polished_diorite
+- minecraft:granite
+- minecraft:polished_granite
+- minecraft:deepslate
+- minecraft:polished_deepslate
+- minecraft:infested_deepslate
+
+#c:almandine_small_dusts
+- techreborn:almandine_small_dust
+
+#minecraft:banners
+- minecraft:white_banner
+- minecraft:orange_banner
+- minecraft:magenta_banner
+- minecraft:light_blue_banner
+- minecraft:yellow_banner
+- minecraft:lime_banner
+- minecraft:pink_banner
+- minecraft:gray_banner
+- minecraft:light_gray_banner
+- minecraft:cyan_banner
+- minecraft:purple_banner
+- minecraft:blue_banner
+- minecraft:brown_banner
+- minecraft:green_banner
+- minecraft:red_banner
+- minecraft:black_banner
+
+#minecraft:wooden_fences
+- minecraft:oak_fence
+- minecraft:acacia_fence
+- minecraft:dark_oak_fence
+- minecraft:spruce_fence
+- minecraft:birch_fence
+- minecraft:jungle_fence
+- minecraft:crimson_fence
+- minecraft:warped_fence
+- architects_palette:twisted_fence
+- blockus:bamboo_fence
+- blockus:charred_fence
+- blockus:white_oak_fence
+- ecologics:coconut_fence
+- ecologics:walnut_fence
+- ecologics:azalea_fence
+- ecologics:flowering_azalea_fence
+- techreborn:rubber_fence
+- twigs:stripped_bamboo_fence
+
+#c:certus_quartz
+- ae2:certus_quartz_crystal
+- ae2:charged_certus_quartz_crystal
+
+#c:chromium_blocks
+- techreborn:chrome_storage_block
+
+#c:bronze_blocks
+- techreborn:bronze_storage_block
+
+#c:steel_nuggets
+- techreborn:steel_nugget
+
+#forge:obsidian
+- minecraft:obsidian
+
+#c:silver_plates
+- techreborn:silver_plate
+
+#c:ender_pearl_dusts
+- ae2:ender_dust
+- techreborn:ender_pearl_dust
+
+#forge:ore_rates/singular
+- minecraft:ancient_debris
+- minecraft:coal_ore
+- minecraft:deepslate_coal_ore
+- minecraft:deepslate_diamond_ore
+- minecraft:deepslate_emerald_ore
+- minecraft:deepslate_gold_ore
+- minecraft:deepslate_iron_ore
+- minecraft:diamond_ore
+- minecraft:emerald_ore
+- minecraft:gold_ore
+- minecraft:iron_ore
+- minecraft:nether_quartz_ore
+
+#c:ashes_small_dusts
+- techreborn:ashes_small_dust
+
+#forge:raw_materials/copper
+- minecraft:raw_copper
+
+#c:clay_dusts
+- techreborn:clay_dust
+
+#trinkets:offhand/ring
+- #trinkets:hand/ring
+
+#forge:glass/magenta
+- minecraft:magenta_stained_glass
+
+#c:endstone_dusts
+- techreborn:endstone_dust
+
+#forge:ores/coal
+- #minecraft:coal_ores
+
+#trinkets:hand/ring
+- arcanus:ring_of_shielding?
+- arcanus:ring_of_the_enderman?
+- arcanus:ring_of_the_monk?
+- arcanus:ring_of_the_west_wind?
+
+#c:silicon_plates
+- techreborn:silicon_plate
+
+#goblintraders:goblin_trader_edibles
+- minecraft:apple
+- minecraft:golden_apple
+- minecraft:enchanted_golden_apple
+
+#fabric:cooked_eggs
+- farmersdelight:fried_egg
+
+#lovely_snails:snail_breeding_items
+- minecraft:brown_mushroom
+- minecraft:crimson_fungus
+- minecraft:red_mushroom
+- minecraft:warped_fungus
+
+#c:refined_iron_plates
+- techreborn:refined_iron_plate
+
+#balm:light_gray_dyes
+- #c:light_gray_dyes?
+- minecraft:light_gray_dye
+
+#fabric:crops/onion
+- farmersdelight:onion
+
+#c:raw_copper_blocks
+- minecraft:raw_copper_block
+
+#chiselsandbits:chisel
+- chiselsandbits:chisel_stone
+- chiselsandbits:chisel_iron
+- chiselsandbits:chisel_gold
+- chiselsandbits:chisel_diamond
+- chiselsandbits:chisel_netherite
+
+#c:steel_ingots
+- techreborn:steel_ingot
+
+#c:raw_gold_blocks
+- minecraft:raw_gold_block
+
+#minecraft:trapdoors
+- #minecraft:wooden_trapdoors
+- minecraft:iron_trapdoor
+- blockus:paper_trapdoor
+- blockus:obsidian_reinforced_trapdoor
+- blockus:stone_trapdoor
+- blockus:blackstone_trapdoor
+
+#forge:ingots/gold
+- minecraft:gold_ingot
+
+#c:tungstensteel_plates
+- techreborn:tungstensteel_plate
+
+#forge:glass/cyan
+- minecraft:cyan_stained_glass
+
+#forge:leather
+- minecraft:leather
+
+#forge:glass
+- #forge:glass/colorless
+- #forge:stained_glass
+- #forge:glass/tinted
+
+#minecraft:boats
+- minecraft:oak_boat
+- minecraft:spruce_boat
+- minecraft:birch_boat
+- minecraft:jungle_boat
+- minecraft:acacia_boat
+- minecraft:dark_oak_boat
+- ecologics:coconut_boat
+- ecologics:walnut_boat
+- ecologics:azalea_boat
+- ecologics:flowering_azalea_boat
+
+#forge:nuggets/iron
+- minecraft:iron_nugget
+
+#adventurez:leather_items
+- adventurez:mammoth_fur
+- adventurez:rhino_leather
+- minecraft:leather
+
+#c:rubies
+- techreborn:ruby_gem
+
+#balm:light_blue_dyes
+- #c:light_blue_dyes?
+- minecraft:light_blue_dye
+
+#c:empty_buckets
+- minecraft:bucket
+
+#forge:ores_in_ground/netherrack
+- minecraft:nether_gold_ore
+- minecraft:nether_quartz_ore
+
+#c:dead_coral_blocks
+- minecraft:dead_tube_coral_block
+- minecraft:dead_brain_coral_block
+- minecraft:dead_bubble_coral_block
+- minecraft:dead_fire_coral_block
+- minecraft:dead_horn_coral_block
+
+#c:obsidian_dusts
+- techreborn:obsidian_dust
+
+#curios:cosmetic_boots
+- adventurez:stone_golem_boots
+
+#forge:crops/potato
+- minecraft:potato
+
+#c:steel_small_dusts
+- techreborn:steel_small_dust
+
+#fabric:seeds/cabbage
+- farmersdelight:cabbage_seeds
+
+#fabric:raw_fishes/cod
+- minecraft:cod
+- farmersdelight:cod_slice
+
+#c:blue_glass
+- #c:blue_glass_blocks
+- #c:blue_glass_panes
+- #c:blue_glass_slabs
+- #c:blue_glass_stairs
+
+#forge:stained_glass_panes
+- minecraft:white_stained_glass_pane
+- minecraft:orange_stained_glass_pane
+- minecraft:magenta_stained_glass_pane
+- minecraft:light_blue_stained_glass_pane
+- minecraft:yellow_stained_glass_pane
+- minecraft:lime_stained_glass_pane
+- minecraft:pink_stained_glass_pane
+- minecraft:gray_stained_glass_pane
+- minecraft:light_gray_stained_glass_pane
+- minecraft:cyan_stained_glass_pane
+- minecraft:purple_stained_glass_pane
+- minecraft:blue_stained_glass_pane
+- minecraft:brown_stained_glass_pane
+- minecraft:green_stained_glass_pane
+- minecraft:red_stained_glass_pane
+- minecraft:black_stained_glass_pane
+
+#c:stone
+- minecraft:andesite
+- minecraft:diorite
+- minecraft:granite
+- minecraft:infested_stone
+- minecraft:stone
+- minecraft:polished_andesite
+- minecraft:polished_diorite
+- minecraft:polished_granite
+- minecraft:stone
+- minecraft:andesite
+- minecraft:polished_andesite
+- minecraft:diorite
+- minecraft:polished_diorite
+- minecraft:granite
+- minecraft:polished_granite
+- minecraft:deepslate
+- minecraft:polished_deepslate
+- minecraft:infested_deepslate
+
+#c:white_glass
+- #c:white_glass_blocks
+- #c:white_glass_panes
+- #c:white_glass_slabs
+- #c:white_glass_stairs
+
+#c:red_garnet_dusts
+- techreborn:red_garnet_dust
+
+#balm:emeralds
+- #c:emeralds?
+- minecraft:emerald
+
+#minecraft:copper_ores
+- minecraft:copper_ore
+- minecraft:deepslate_copper_ore
+
+#fabric:grain/wheat
+- minecraft:wheat
+
+#c:dark_ashes_small_dusts
+- techreborn:dark_ashes_small_dust
+
+#blockus:stained_stone_bricks
+- blockus:white_stone_bricks
+- blockus:orange_stone_bricks
+- blockus:magenta_stone_bricks
+- blockus:light_blue_stone_bricks
+- blockus:yellow_stone_bricks
+- blockus:lime_stone_bricks
+- blockus:pink_stone_bricks
+- blockus:gray_stone_bricks
+- blockus:gray_stone_bricks
+- minecraft:stone_bricks
+- blockus:cyan_stone_bricks
+- blockus:purple_stone_bricks
+- blockus:blue_stone_bricks
+- blockus:brown_stone_bricks
+- blockus:green_stone_bricks
+- blockus:red_stone_bricks
+- blockus:black_stone_bricks
+
+#techreborn:raw_metals
+- techreborn:raw_iridium
+- techreborn:raw_lead
+- techreborn:raw_silver
+- techreborn:raw_tin
+- techreborn:raw_tungsten
+
+#c:small_corals_purple
+- minecraft:bubble_coral
+- minecraft:bubble_coral_fan
+
+#c:tungstensteel_ingots
+- techreborn:tungstensteel_ingot
+
+#forge:glass/gray
+- minecraft:gray_stained_glass
+
+#c:purple_dye
+- minecraft:purple_dye
+
+#forge:dyes/light_blue
+- minecraft:light_blue_dye
+
+#balm:blue_dyes
+- minecraft:blue_dye
+- #c:blue_dyes?
+
+#c:peridot_plates
+- techreborn:peridot_plate
+
+#c:wooden_chests
+- minecraft:chest
+- minecraft:trapped_chest
+
+#c:light_blue_glass
+- #c:light_blue_glass_blocks
+- #c:light_blue_glass_panes
+- #c:light_blue_glass_slabs
+- #c:light_blue_glass_stairs
+
+#c:axes
+- #fabric:axes?
+- minecraft:diamond_axe
+- minecraft:golden_axe
+- minecraft:wooden_axe
+- minecraft:stone_axe
+- minecraft:iron_axe
+- minecraft:netherite_axe
+
+#c:raw_iron_blocks
+- minecraft:raw_iron_block
+
+#c:diamond_small_dusts
+- techreborn:diamond_small_dust
+
+#c:orange_glass_slabs
+- mo_glass:orange_stained_glass_slab
+
+#c:emerald_nuggets
+- techreborn:emerald_nugget
+
+#c:shovels
+- #fabric:shovels?
+- minecraft:diamond_shovel
+- minecraft:golden_shovel
+- minecraft:wooden_shovel
+- minecraft:stone_shovel
+- minecraft:iron_shovel
+- minecraft:netherite_shovel
+
+#c:endstone_small_dusts
+- techreborn:endstone_small_dust
+
+#forge:glass_panes/black
+- minecraft:black_stained_glass_pane
+
+#fabric:milk
+- #fabric:milk/milk
+- #fabric:milk/milk_bottle
+
+#c:steel_plates
+- techreborn:steel_plate
+
+#farmersdelight:wild_crops
+- farmersdelight:wild_carrots
+- farmersdelight:wild_potatoes
+- farmersdelight:wild_beetroots
+- farmersdelight:wild_cabbages
+- farmersdelight:wild_tomatoes
+- farmersdelight:wild_onions
+- farmersdelight:wild_rice
+
+#forge:dyes/pink
+- minecraft:pink_dye
+
+#minecraft:axolotl_tempt_items
+- minecraft:tropical_fish_bucket
+
+#c:carbon_plates
+- techreborn:carbon_plate
+
+#c:magenta_dye
+- minecraft:magenta_dye
+
+#c:certus_quartz_blocks
+- ae2:quartz_block
+
+#forge:glass_panes/blue
+- minecraft:blue_stained_glass_pane
+
+#c:glowstone_small_dusts
+- techreborn:glowstone_small_dust
+
+#forge:crops/wheat
+- minecraft:wheat
+
+#c:ashes_dusts
+- techreborn:ashes_dust
+
+#tooltiprareness:common_item
+- adventurez:orc_skin
+- adventurez:dragon_saddle
+
+#ecologics:azalea_logs
+- ecologics:azalea_log
+- ecologics:azalea_wood
+- ecologics:stripped_azalea_log
+- ecologics:stripped_azalea_wood
+- ecologics:flowering_azalea_log
+- ecologics:flowering_azalea_wood
+
+#c:andesite_small_dusts
+- techreborn:andesite_small_dust
+
+#forge:stone
+- minecraft:andesite
+- minecraft:diorite
+- minecraft:granite
+- minecraft:infested_stone
+- minecraft:stone
+- minecraft:polished_andesite
+- minecraft:polished_diorite
+- minecraft:polished_granite
+- minecraft:deepslate
+- minecraft:polished_deepslate
+- minecraft:infested_deepslate
+- minecraft:tuff
+
+#c:pink_glass_stairs
+- mo_glass:pink_stained_glass_stairs
+
+#c:sapphires
+- techreborn:sapphire_gem
+
+#forge:glass_panes/yellow
+- minecraft:yellow_stained_glass_pane
+
+#c:books
+- minecraft:book
+- minecraft:writable_book
+- minecraft:written_book
+- minecraft:enchanted_book
+- minecraft:knowledge_book
+- patchouli:guide_book?
+
+#forge:gems/lapis
+- minecraft:lapis_lazuli
+
+#c:cyan_glass_panes
+- minecraft:cyan_stained_glass_pane
+
+#forge:gunpowder
+- minecraft:gunpowder
+
+#c:yellow_glass_stairs
+- mo_glass:yellow_stained_glass_stairs
+
+#c:tungsten_ores
+- techreborn:tungsten_ore
+- techreborn:deepslate_tungsten_ore
+
+#tooltiprareness:uncommon_item
+- adventurez:gilded_stone
+- adventurez:warthog_shell_piece
+
+#forge:ore_rates/sparse
+- minecraft:nether_gold_ore
+
+#c:iridium_reinforced_stone_blocks
+- techreborn:iridium_reinforced_stone_storage_block
+
+#forge:crops
+- #forge:crops/beetroot
+- #forge:crops/carrot
+- #forge:crops/nether_wart
+- #forge:crops/potato
+- #forge:crops/wheat
+
+#forge:ore_bearing_ground/netherrack
+- minecraft:netherrack
+
+#farmersdelight:straw_harvesters
+- #farmersdelight:tools/knives
+
+#fabric:crops
+- #fabric:crops/cabbage
+- #fabric:crops/onion
+- #fabric:crops/rice
+- #fabric:crops/tomato
+
+#c:light_blue_glass_blocks
+- minecraft:light_blue_stained_glass
+
+#c:iridium_blocks
+- techreborn:iridium_storage_block
+
+#c:zinc_small_dusts
+- techreborn:zinc_small_dust
+
+#minecraft:birch_logs
+- minecraft:birch_log
+- minecraft:birch_wood
+- minecraft:stripped_birch_log
+- minecraft:stripped_birch_wood
+- blockus:birch_small_logs
+- decorative_blocks:birch_beam
+
+#c:iridium_alloy_ingots
+- techreborn:iridium_alloy_ingot
+
+#ae2:metal_ingots
+- #c:iron_ingots?
+- #c:gold_ingots?
+- #c:copper_ingots?
+- #c:tin_ingots?
+- #c:brass_ingots?
+- #c:nickel_ingots?
+- #c:aluminium_ingots?
+
+#c:cyan_glass_blocks
+- minecraft:cyan_stained_glass
+
+#c:hot_tungstensteel_nuggets
+- techreborn:hot_tungstensteel_nugget
+
+#forge:seeds
+- #forge:seeds/beetroot
+- #forge:seeds/melon
+- #forge:seeds/pumpkin
+- #forge:seeds/wheat
+
+#c:cinnabar_dusts
+- techreborn:cinnabar_dust
+
+#c:iridium_alloy_plates
+- techreborn:iridium_alloy_plate
+
+#c:tungsten_blocks
+- techreborn:tungsten_storage_block
+
+#minecraft:oak_logs
+- minecraft:oak_log
+- minecraft:oak_wood
+- minecraft:stripped_oak_log
+- minecraft:stripped_oak_wood
+- blockus:oak_small_logs
+- decorative_blocks:oak_beam
+
+#c:grass_variants
+- minecraft:grass
+- minecraft:tall_grass
+- minecraft:fern
+- minecraft:large_fern
+- minecraft:moss_carpet
+- minecraft:seagrass
+
+#c:manganese_dusts
+- techreborn:manganese_dust
+
+#c:invar_blocks
+- techreborn:invar_storage_block
+
+#c:purple_glass
+- #c:purple_glass_blocks
+- #c:purple_glass_panes
+- #c:purple_glass_slabs
+- #c:purple_glass_stairs
+
+#forge:ores/lapis
+- #minecraft:lapis_ores
+
+#c:saltpeter_small_dusts
+- techreborn:saltpeter_small_dust
+
+#blockus:barrels
+- blockus:oak_barrel
+- minecraft:barrel
+- blockus:birch_barrel
+- blockus:jungle_barrel
+- blockus:acacia_barrel
+- blockus:dark_oak_barrel
+- blockus:crimson_barrel
+- blockus:warped_barrel
+- blockus:bamboo_barrel
+- blockus:charred_barrel
+- blockus:white_oak_barrel
+
+#forge:slimeballs
+- minecraft:slime_ball
+
+#c:electrum_plates
+- techreborn:electrum_plate
+
+#balm:gold_nuggets
+- #c:gold_nuggets?
+- minecraft:gold_nugget
+
+#fabric:pasta/raw_pasta
+- farmersdelight:raw_pasta
+
+#c:gray_glass_panes
+- minecraft:gray_stained_glass_pane
+
+#minecraft:jungle_logs
+- minecraft:jungle_log
+- minecraft:jungle_wood
+- minecraft:stripped_jungle_log
+- minecraft:stripped_jungle_wood
+- blockus:jungle_small_logs
+- decorative_blocks:jungle_beam
+
+#minecraft:lectern_books
+- minecraft:written_book
+- minecraft:writable_book
+- patchouli:guide_book
+
+#c:brown_glass_panes
+- minecraft:brown_stained_glass_pane
+
+#c:wood_plates
+- techreborn:wood_plate
+
+#c:sapphire_plates
+- techreborn:sapphire_plate
+
+#minecraft:spruce_logs
+- minecraft:spruce_log
+- minecraft:spruce_wood
+- minecraft:stripped_spruce_log
+- minecraft:stripped_spruce_wood
+- blockus:spruce_small_logs
+- decorative_blocks:spruce_beam
+
+#fabric:crops/rice
+- farmersdelight:rice
+
+#forge:fence_gates/wooden
+- minecraft:oak_fence_gate
+- minecraft:spruce_fence_gate
+- minecraft:birch_fence_gate
+- minecraft:jungle_fence_gate
+- minecraft:acacia_fence_gate
+- minecraft:dark_oak_fence_gate
+- minecraft:crimson_fence_gate
+- minecraft:warped_fence_gate
+
+#forge:glass_panes/lime
+- minecraft:lime_stained_glass_pane
+
+#balm:purple_dyes
+- #c:purple_dyes?
+- minecraft:purple_dye
+
+#terralith:spire/junk_tools
+- minecraft:wooden_pickaxe
+- minecraft:wooden_shovel
+- minecraft:wooden_axe
+- minecraft:wooden_sword
+- minecraft:wooden_hoe
+- minecraft:stone_pickaxe
+- minecraft:stone_sword
+
+#c:wood_sticks
+- minecraft:stick
+
+#c:green_glass_blocks
+- minecraft:green_stained_glass
+
+#fabric:pasta
+- #fabric:pasta/raw_pasta
+
+#c:peridot_small_dusts
+- techreborn:peridot_small_dust
+
+#minecraft:flowers
+- #minecraft:small_flowers
+- #minecraft:tall_flowers
+- minecraft:flowering_azalea_leaves
+- minecraft:flowering_azalea
+- blockus:azalea_small_hedge_flowers
+- immersive_weathering:azalea_flowers
+- immersive_weathering:flower_crown
+- immersive_weathering:flowering_azalea_leaf_pile
+- immersive_weathering:azalea_flower_pile
+
+#c:galena_ores
+- techreborn:galena_ore
+- techreborn:deepslate_galena_ore
+
+#ae2:covered_dense_cable
+- ae2:white_covered_dense_cable
+- ae2:orange_covered_dense_cable
+- ae2:magenta_covered_dense_cable
+- ae2:light_blue_covered_dense_cable
+- ae2:yellow_covered_dense_cable
+- ae2:lime_covered_dense_cable
+- ae2:pink_covered_dense_cable
+- ae2:gray_covered_dense_cable
+- ae2:light_gray_covered_dense_cable
+- ae2:cyan_covered_dense_cable
+- ae2:purple_covered_dense_cable
+- ae2:blue_covered_dense_cable
+- ae2:brown_covered_dense_cable
+- ae2:green_covered_dense_cable
+- ae2:red_covered_dense_cable
+- ae2:black_covered_dense_cable
+- ae2:fluix_covered_dense_cable
+
+#fabric:swords
+- additionaladditions:rose_gold_sword?
+- additionaladditions:gilded_netherite_sword?
+- dragonloot:dragon_sword
+- techreborn:bronze_sword
+- techreborn:ruby_sword
+- techreborn:sapphire_sword
+- techreborn:peridot_sword
+- techreborn:nanosaber
+- techreborn:basic_chainsaw
+- techreborn:advanced_chainsaw
+- techreborn:industrial_chainsaw
+- techreborn:omni_tool
+
+#minecraft:diamond_ores
+- minecraft:diamond_ore
+- minecraft:deepslate_diamond_ore
+
+#forge:gems/amethyst
+- minecraft:amethyst_shard
+
+#friendlyfire:bypass_pet
+
+#c:glass_slabs
+- #mo_glass:glass_slabs
+
+#forge:glass/silica
+- minecraft:glass
+- minecraft:black_stained_glass
+- minecraft:blue_stained_glass
+- minecraft:brown_stained_glass
+- minecraft:cyan_stained_glass
+- minecraft:gray_stained_glass
+- minecraft:green_stained_glass
+- minecraft:light_blue_stained_glass
+- minecraft:light_gray_stained_glass
+- minecraft:lime_stained_glass
+- minecraft:magenta_stained_glass
+- minecraft:orange_stained_glass
+- minecraft:pink_stained_glass
+- minecraft:purple_stained_glass
+- minecraft:red_stained_glass
+- minecraft:white_stained_glass
+- minecraft:yellow_stained_glass
+
+#forge:dyes/brown
+- minecraft:brown_dye
+
+#minecraft:fence_gates
+- ecologics:coconut_fence_gate
+- ecologics:walnut_fence_gate
+- ecologics:azalea_fence_gate
+- ecologics:flowering_azalea_fence_gate
+
+#c:cyan_dyes
+- minecraft:cyan_dye
+- minecraft:cyan_dye
+
+#forge:ores
+- #forge:ores/coal
+- #forge:ores/copper
+- #forge:ores/diamond
+- #forge:ores/emerald
+- #forge:ores/gold
+- #forge:ores/iron
+- #forge:ores/lapis
+- #forge:ores/redstone
+- #forge:ores/quartz
+- #forge:ores/netherite_scrap
+
+#comforts:sleeping_bags
+- comforts:sleeping_bag_black
+- comforts:sleeping_bag_blue
+- comforts:sleeping_bag_brown
+- comforts:sleeping_bag_cyan
+- comforts:sleeping_bag_gray
+- comforts:sleeping_bag_green
+- comforts:sleeping_bag_light_blue
+- comforts:sleeping_bag_light_gray
+- comforts:sleeping_bag_lime
+- comforts:sleeping_bag_magenta
+- comforts:sleeping_bag_orange
+- comforts:sleeping_bag_pink
+- comforts:sleeping_bag_purple
+- comforts:sleeping_bag_red
+- comforts:sleeping_bag_white
+- comforts:sleeping_bag_yellow
+
+#techreborn:calcite_small_dust_material
+- minecraft:bone_meal
+- #c:coral_fans
+- #c:coral_plants
+- minecraft:pointed_dripstone
+- minecraft:nautilus_shell
+
+#forge:rods/wooden
+- minecraft:stick
+
+#c:electrum_nuggets
+- techreborn:electrum_nugget
+
+#c:light_gray_glass_stairs
+- mo_glass:light_gray_stained_glass_stairs
+
+#ae2:all_certus_quartz
+- #c:certus_quartz
+- ae2:charged_certus_quartz_crystal
+
+#forge:storage_blocks/diamond
+- minecraft:diamond_block
+
+#adventurez:piglin_not_attack_items
+- adventurez:stone_golem_helmet
+- adventurez:stone_golem_chestplate
+- adventurez:stone_golem_leggings
+- adventurez:stone_golem_boots
+
+#c:electrum_ingots
+- techreborn:electrum_ingot
+
+#minecraft:freeze_immune_wearables
+- minecraft:leather_boots
+- minecraft:leather_leggings
+- minecraft:leather_chestplate
+- minecraft:leather_helmet
+- minecraft:leather_horse_armor
+- techreborn:quantum_helmet
+- techreborn:quantum_chestplate
+- techreborn:quantum_leggings
+- techreborn:quantum_boots
+
+#c:cyan_dye
+- minecraft:cyan_dye
+
+#artifacts:artifacts
+- artifacts:umbrella
+- artifacts:everlasting_beef
+- artifacts:eternal_steak
+- artifacts:plastic_drinking_hat
+- artifacts:novelty_drinking_hat
+- artifacts:snorkel
+- artifacts:night_vision_goggles
+- artifacts:villager_hat
+- artifacts:superstitious_hat
+- artifacts:lucky_scarf
+- artifacts:scarf_of_invisibility
+- artifacts:cross_necklace
+- artifacts:panic_necklace
+- artifacts:shock_pendant
+- artifacts:flame_pendant
+- artifacts:thorn_pendant
+- artifacts:charm_of_sinking
+- artifacts:cloud_in_a_bottle
+- artifacts:obsidian_skull
+- artifacts:antidote_vessel
+- artifacts:universal_attractor
+- artifacts:crystal_heart
+- artifacts:helium_flamingo
+- artifacts:digging_claws
+- artifacts:feral_claws
+- artifacts:power_glove
+- artifacts:fire_gauntlet
+- artifacts:pocket_piston
+- artifacts:vampiric_glove
+- artifacts:golden_hook
+- artifacts:aqua_dashers
+- artifacts:bunny_hoppers
+- artifacts:kitty_slippers
+- artifacts:running_shoes
+- artifacts:steadfast_spikes
+- artifacts:flippers
+- artifacts:whoopee_cushion
+
+#c:peridot_dusts
+- techreborn:peridot_dust
+
+#terralith:spire/leather_armor
+- minecraft:leather_boots
+- minecraft:leather_leggings
+- minecraft:leather_chestplate
+- minecraft:leather_horse_armor
+
+#c:copper_nuggets
+- oxidized:copper_nugget
+- techreborn:copper_nugget
+
+#c:spessartine_dusts
+- techreborn:spessartine_dust
+
+#mo_glass:colored_glass_stairs
+- mo_glass:white_stained_glass_stairs
+- mo_glass:orange_stained_glass_stairs
+- mo_glass:magenta_stained_glass_stairs
+- mo_glass:light_blue_stained_glass_stairs
+- mo_glass:yellow_stained_glass_stairs
+- mo_glass:lime_stained_glass_stairs
+- mo_glass:pink_stained_glass_stairs
+- mo_glass:gray_stained_glass_stairs
+- mo_glass:light_gray_stained_glass_stairs
+- mo_glass:cyan_stained_glass_stairs
+- mo_glass:purple_stained_glass_stairs
+- mo_glass:blue_stained_glass_stairs
+- mo_glass:brown_stained_glass_stairs
+- mo_glass:green_stained_glass_stairs
+- mo_glass:red_stained_glass_stairs
+- mo_glass:black_stained_glass_stairs
+
+#levelz:farm_items
+- minecraft:wheat
+- minecraft:carrot
+- minecraft:potato
+- minecraft:beetroot
+- farmersdelight:tomato
+- farmersdelight:onion
+- farmersdelight:cabbage
+
+#c:dark_glass_stairs
+- mo_glass:tinted_glass_stairs
+
+#forge:cobblestone/mossy
+- minecraft:mossy_cobblestone
+
+#forge:glass_panes/magenta
+- minecraft:magenta_stained_glass_pane
+
+#c:nickel_blocks
+- techreborn:nickel_storage_block
+
+#forge:nuggets
+- #forge:nuggets/iron
+- #forge:nuggets/gold
+
+#c:bronze_dusts
+- techreborn:bronze_dust
+
+#c:tungstensteel_blocks
+- techreborn:tungstensteel_storage_block
+
+#c:green_dye
+- minecraft:green_dye
+
+#c:blue_glass_slabs
+- mo_glass:blue_stained_glass_slab
+
+#mo_glass:glass_slabs
+- mo_glass:glass_slab
+- #mo_glass:colored_glass_slabs
+- mo_glass:tinted_glass_slab
+
+#c:coal_dusts
+- techreborn:coal_dust
+
+#minecraft:occludes_vibration_signals
+- #minecraft:wool
+
+#fabric:pickaxes
+- additionaladditions:rose_gold_pickaxe?
+- additionaladditions:gilded_netherite_pickaxe?
+- dragonloot:dragon_pickaxe
+- techreborn:bronze_pickaxe
+- techreborn:ruby_pickaxe
+- techreborn:sapphire_pickaxe
+- techreborn:peridot_pickaxe
+- techreborn:basic_drill
+- techreborn:advanced_drill
+- techreborn:industrial_drill
+- techreborn:basic_jackhammer
+- techreborn:advanced_jackhammer
+- techreborn:industrial_jackhammer
+- techreborn:rock_cutter
+- techreborn:omni_tool
+
+#immersive_weathering:bark
+- immersive_weathering:oak_bark
+- immersive_weathering:spruce_bark
+- immersive_weathering:birch_bark
+- immersive_weathering:jungle_bark
+- immersive_weathering:acacia_bark
+- immersive_weathering:dark_oak_bark
+
+#immersive_weathering:scales
+- immersive_weathering:crimson_scales
+- immersive_weathering:warped_scales
+
+#forge:rods/blaze
+- minecraft:blaze_rod
+
+#c:diamond_ores
+- minecraft:diamond_ore
+- minecraft:deepslate_diamond_ore
+
+#terralith:spire/common_tools
+- minecraft:iron_pickaxe
+- minecraft:iron_shovel
+- minecraft:iron_axe
+- minecraft:iron_sword
+- minecraft:golden_helmet
+- minecraft:golden_chestplate
+- minecraft:golden_leggings
+- minecraft:golden_boots
+
+#toolstats:ignore_durability
+
+#c:gold_nuggets
+- minecraft:gold_nugget
+
+#c:storage_blocks
+- #c:certus_quartz_blocks
+
+#c:coal_plates
+- techreborn:coal_plate
+
+#c:tin_ores
+- techreborn:tin_ore
+- techreborn:deepslate_tin_ore
+
+#c:dyes
+- #c:black_dyes?
+- #c:blue_dyes?
+- #c:brown_dyes?
+- #c:green_dyes?
+- #c:red_dyes?
+- #c:white_dyes?
+- #c:yellow_dyes?
+- #c:light_gray_dyes?
+- #c:light_blue_dyes?
+- #c:lime_dyes?
+- #c:magenta_dyes?
+- #c:orange_dyes?
+- #c:pink_dyes?
+- #c:cyan_dyes?
+- #c:gray_dyes?
+- #c:purple_dyes?
+
+#c:white_dye
+- minecraft:white_dye
+
+#forge:glass/red
+- minecraft:red_stained_glass
+
+#c:certus_quartz_dusts
+- ae2:certus_quartz_dust
+- ae2:certus_quartz_dust
+
+#fabric:salad_ingredients
+- #fabric:salad_ingredients/cabbage
+
+#c:steel_blocks
+- techreborn:steel_storage_block
+
+#forge:ender_pearls
+- minecraft:ender_pearl
+
+#c:brown_glass_stairs
+- mo_glass:brown_stained_glass_stairs
+
+#c:titanium_nuggets
+- techreborn:titanium_nugget
+
+#c:zinc_nuggets
+- techreborn:zinc_nugget
+
+#fabric:bread/wheat
+- minecraft:bread
+
+#forge:glass_panes/green
+- minecraft:green_stained_glass_pane
+
+#c:uvarovite_dusts
+- techreborn:uvarovite_dust
+
+#forge:chests/trapped
+- minecraft:trapped_chest
+
+#balm:cyan_dyes
+- #c:cyan_dyes?
+- minecraft:cyan_dye
+
+#fabric:milk/milk
+- minecraft:milk_bucket
+
+#yigd:force_item_slot
+- camsbackpacks:white_backpack?
+- camsbackpacks:orange_backpack?
+- camsbackpacks:magenta_backpack?
+- camsbackpacks:light_blue_backpack?
+- camsbackpacks:yellow_backpack?
+- camsbackpacks:lime_backpack?
+- camsbackpacks:pink_backpack?
+- camsbackpacks:gray_backpack?
+- camsbackpacks:light_gray_backpack?
+- camsbackpacks:cyan_backpack?
+- camsbackpacks:purple_backpack?
+- camsbackpacks:blue_backpack?
+- camsbackpacks:brown_backpack?
+- camsbackpacks:green_backpack?
+- camsbackpacks:red_backpack?
+- camsbackpacks:black_backpack?
+- camsbackpacks:gay_pride_backpack?
+- camsbackpacks:lesbian_pride_backpack?
+- camsbackpacks:qpoc_pride_backpack?
+- camsbackpacks:bi_pride_backpack?
+- camsbackpacks:pan_pride_backpack?
+- camsbackpacks:trans_pride_backpack?
+- camsbackpacks:genderqueer_pride_backpack?
+- camsbackpacks:genderfluid_pride_backpack?
+- camsbackpacks:enby_pride_backpack?
+- camsbackpacks:ace_pride_backpack?
+- camsbackpacks:demi_pride_backpack?
+- camsbackpacks:aro_pride_backpack?
+- camsbackpacks:agender_pride_backpack?
+
+#c:aluminum_plates
+- techreborn:aluminum_plate
+
+#forge:sandstone
+- minecraft:sandstone
+- minecraft:cut_sandstone
+- minecraft:chiseled_sandstone
+- minecraft:smooth_sandstone
+- minecraft:red_sandstone
+- minecraft:cut_red_sandstone
+- minecraft:chiseled_red_sandstone
+- minecraft:smooth_red_sandstone
+
+#c:dead_coral_plants
+- minecraft:dead_tube_coral
+- minecraft:dead_brain_coral
+- minecraft:dead_bubble_coral
+- minecraft:dead_fire_coral
+- minecraft:dead_horn_coral
+
+#forge:glass_panes/colorless
+- minecraft:glass_pane
+
+#minecraft:piglin_food
+- minecraft:porkchop
+- minecraft:cooked_porkchop
+
+#c:wrenches
+- ae2:certus_quartz_wrench
+- ae2:nether_quartz_wrench
+- ae2:network_tool
+
+#c:diorite_dusts
+- techreborn:diorite_dust
+
+#decorative_blocks:seats
+- decorative_blocks:spruce_seat
+- decorative_blocks:acacia_seat
+- decorative_blocks:dark_oak_seat
+- decorative_blocks:warped_seat
+- decorative_blocks:birch_seat
+- decorative_blocks:jungle_seat
+- decorative_blocks:oak_seat
+- decorative_blocks:crimson_seat
+
+#c:pyrope_dusts
+- techreborn:pyrope_dust
+
+#blockus:patterned_wool
+- blockus:white_patterned_wool
+- blockus:orange_patterned_wool
+- blockus:magenta_patterned_wool
+- blockus:light_blue_patterned_wool
+- blockus:yellow_patterned_wool
+- blockus:lime_patterned_wool
+- blockus:pink_patterned_wool
+- blockus:gray_patterned_wool
+- blockus:light_gray_patterned_wool
+- blockus:cyan_patterned_wool
+- blockus:purple_patterned_wool
+- blockus:blue_patterned_wool
+- blockus:brown_patterned_wool
+- blockus:green_patterned_wool
+- blockus:red_patterned_wool
+- blockus:black_patterned_wool
+
+#c:dark_glass
+- #c:dark_glass_blocks
+- #c:dark_glass_slabs
+- #c:dark_glass_stairs
+
+#c:light_gray_glass_panes
+- minecraft:light_gray_stained_glass_pane
+
+#c:green_dyes
+- minecraft:green_dye
+- minecraft:green_dye
+
+#c:living_coral_blocks
+- minecraft:tube_coral_block
+- minecraft:brain_coral_block
+- minecraft:bubble_coral_block
+- minecraft:fire_coral_block
+- minecraft:horn_coral_block
+
+#blockus:small_hedges
+- blockus:oak_small_hedge
+- blockus:spruce_small_hedge
+- blockus:birch_small_hedge
+- blockus:jungle_small_hedge
+- blockus:acacia_small_hedge
+- blockus:dark_oak_small_hedge
+- blockus:white_oak_small_hedge
+- blockus:crimson_small_hedge
+- blockus:warped_small_hedge
+- blockus:azalea_small_hedge
+- blockus:azalea_small_hedge_flowers
+- blockus:moss_small_hedge
+- blockus:autumn_oak_small_hedge?
+- blockus:autumn_birch_small_hedge?
+- blockus:pink_cherry_oak_small_hedge?
+- blockus:white_cherry_oak_small_hedge?
+- blockus:palm_small_hedge?
+- blockus:dark_amaranth_small_hedge?
+
+#toolstats:ignore_repair_cost
+
+#minecraft:beds
+- minecraft:red_bed
+- minecraft:black_bed
+- minecraft:blue_bed
+- minecraft:brown_bed
+- minecraft:cyan_bed
+- minecraft:gray_bed
+- minecraft:green_bed
+- minecraft:light_blue_bed
+- minecraft:light_gray_bed
+- minecraft:lime_bed
+- minecraft:magenta_bed
+- minecraft:orange_bed
+- minecraft:pink_bed
+- minecraft:purple_bed
+- minecraft:white_bed
+- minecraft:yellow_bed
+
+#c:yellow_garnet_small_dusts
+- techreborn:yellow_garnet_small_dust
+
+#forge:ores/diamond
+- #minecraft:diamond_ores
+
+#minecraft:doors
+- #minecraft:wooden_doors
+- minecraft:iron_door
+- blockus:paper_door
+- blockus:obsidian_reinforced_door
+- blockus:stone_door
+- blockus:blackstone_door
+
+#adventurez:holder_items
+- adventurez:gilded_stone
+
+#forge:ore_rates/dense
+- minecraft:copper_ore
+- minecraft:deepslate_copper_ore
+- minecraft:deepslate_lapis_ore
+- minecraft:deepslate_redstone_ore
+- minecraft:lapis_ore
+- minecraft:redstone_ore
+
+#fabric:bread
+- #fabric:bread/wheat
+
+#techreborn:rubber_logs
+- techreborn:rubber_log
+- techreborn:rubber_log_stripped
+- techreborn:rubber_wood
+- techreborn:stripped_rubber_wood
+
+#c:grossular_small_dusts
+- techreborn:grossular_small_dust
+
+#techreborn:dusts
+- techreborn:almandine_dust
+- techreborn:aluminum_dust
+- techreborn:amethyst_dust
+- techreborn:andesite_dust
+- techreborn:andradite_dust
+- techreborn:ashes_dust
+- techreborn:basalt_dust
+- techreborn:bauxite_dust
+- techreborn:brass_dust
+- techreborn:bronze_dust
+- techreborn:calcite_dust
+- techreborn:charcoal_dust
+- techreborn:chrome_dust
+- techreborn:cinnabar_dust
+- techreborn:clay_dust
+- techreborn:coal_dust
+- techreborn:dark_ashes_dust
+- techreborn:diamond_dust
+- techreborn:diorite_dust
+- techreborn:electrum_dust
+- techreborn:emerald_dust
+- techreborn:ender_eye_dust
+- techreborn:ender_pearl_dust
+- techreborn:endstone_dust
+- techreborn:flint_dust
+- techreborn:galena_dust
+- techreborn:granite_dust
+- techreborn:grossular_dust
+- techreborn:invar_dust
+- techreborn:lazurite_dust
+- techreborn:magnesium_dust
+- techreborn:manganese_dust
+- techreborn:marble_dust
+- techreborn:netherrack_dust
+- techreborn:nickel_dust
+- techreborn:obsidian_dust
+- techreborn:olivine_dust
+- techreborn:peridot_dust
+- techreborn:phosphorous_dust
+- techreborn:platinum_dust
+- techreborn:pyrite_dust
+- techreborn:pyrope_dust
+- techreborn:quartz_dust
+- techreborn:red_garnet_dust
+- techreborn:ruby_dust
+- techreborn:saltpeter_dust
+- techreborn:sapphire_dust
+- techreborn:saw_dust
+- techreborn:sodalite_dust
+- techreborn:spessartine_dust
+- techreborn:sphalerite_dust
+- techreborn:steel_dust
+- techreborn:sulfur_dust
+- techreborn:titanium_dust
+- techreborn:uvarovite_dust
+- techreborn:yellow_garnet_dust
+- techreborn:zinc_dust
+
+#c:magenta_glass_stairs
+- mo_glass:magenta_stained_glass_stairs
+
+#c:clear_glass_panes
+- minecraft:glass_pane
+
+#friendlyfire:bypass_all_protection
+
+#minecraft:signs
+- minecraft:oak_sign
+- minecraft:spruce_sign
+- minecraft:birch_sign
+- minecraft:acacia_sign
+- minecraft:jungle_sign
+- minecraft:dark_oak_sign
+- minecraft:crimson_sign
+- minecraft:warped_sign
+- ecologics:coconut_sign
+- ecologics:walnut_sign
+
+#c:phosphorous_small_dusts
+- techreborn:phosphorous_small_dust
+
+#waystones:sharestone
+- waystones:sharestone
+- waystones:white_sharestone
+- waystones:orange_sharestone
+- waystones:magenta_sharestone
+- waystones:light_blue_sharestone
+- waystones:yellow_sharestone
+- waystones:lime_sharestone
+- waystones:pink_sharestone
+- waystones:gray_sharestone
+- waystones:light_gray_sharestone
+- waystones:cyan_sharestone
+- waystones:purple_sharestone
+- waystones:blue_sharestone
+- waystones:brown_sharestone
+- waystones:green_sharestone
+- waystones:red_sharestone
+- waystones:black_sharestone
+
+#fabric:tools
+- #fabric:tools/axes
+- #fabric:tools/knives
+- #fabric:tools/pickaxes
+- #fabric:tools/shovels
+
+#c:redstone_ores
+- minecraft:redstone_ore
+- minecraft:deepslate_redstone_ore
+
+#c:sapphire_dusts
+- techreborn:sapphire_dust
+
+#trinkets:all
+- artifacts:whoopee_cushion
+
+#bookshelf:slime_balls
+- #c:slimeballs
+- #c:slime_balls
+
+#balm:white_dyes
+- #c:white_dyes?
+- minecraft:white_dye
+
+#c:lazurite_small_dusts
+- techreborn:lazurite_small_dust
+
+#c:dead_coral_fans
+- minecraft:dead_tube_coral_fan
+- minecraft:dead_brain_coral_fan
+- minecraft:dead_bubble_coral_fan
+- minecraft:dead_fire_coral_fan
+- minecraft:dead_horn_coral_fan
+
+#origins:shields
+- artifacts:umbrella
+
+#forge:cobblestone/normal
+- minecraft:cobblestone
+
+#fabric:raw_mutton
+- minecraft:mutton
+- farmersdelight:mutton_chops
+
+#promenade:dark_amaranth_stems
+- blockus:dark_amaranth_small_stems?
+
+#decorative_blocks:supports
+- decorative_blocks:spruce_support
+- decorative_blocks:acacia_support
+- decorative_blocks:dark_oak_support
+- decorative_blocks:warped_support
+- decorative_blocks:birch_support
+- decorative_blocks:jungle_support
+- decorative_blocks:oak_support
+- decorative_blocks:crimson_support
+
+#c:light_blue_glass_slabs
+- mo_glass:light_blue_stained_glass_slab
+
+#c:aluminum_ingots
+- techreborn:aluminum_ingot
+
+#c:granite_small_dusts
+- techreborn:granite_small_dust
+
+#c:grossular_dusts
+- techreborn:grossular_dust
+
+#fabric:grain
+- #fabric:grain/wheat
+- #fabric:grain/rice
+
+#c:small_corals_pink
+- minecraft:brain_coral
+- minecraft:brain_coral_fan
+
+#c:blue_glass_stairs
+- mo_glass:blue_stained_glass_stairs
+
+#fabric:vegetables/potato
+- minecraft:potato
+
+#c:zinc_plates
+- techreborn:zinc_plate
+
+#fabric:seeds/tomato
+- farmersdelight:tomato_seeds
+
+#c:copper_plates
+- techreborn:copper_plate
+
+#c:cooked_meat
+- minecraft:cooked_beef
+- minecraft:cooked_chicken
+- minecraft:cooked_cod
+- minecraft:cooked_mutton
+- minecraft:cooked_porkchop
+- minecraft:cooked_rabbit
+- minecraft:cooked_salmon
+
+#balm:green_dyes
+- #c:green_dyes?
+- minecraft:green_dye
+
+#forge:glass/green
+- minecraft:green_stained_glass
+
+#c:redstone_small_dusts
+- techreborn:redstone_small_dust
+
+#c:pyrite_small_dusts
+- techreborn:pyrite_small_dust
+
+#c:gray_dye
+- minecraft:gray_dye
+
+#ae2:all_quartz
+- #c:quartz
+- #c:certus_quartz
+- ae2:charged_certus_quartz_crystal
+
+#c:red_glass_stairs
+- mo_glass:red_stained_glass_stairs
+
+#c:tungsten_nuggets
+- techreborn:tungsten_nugget
+
+#c:swords
+- #fabric:swords?
+- minecraft:diamond_sword
+- minecraft:golden_sword
+- minecraft:wooden_sword
+- minecraft:stone_sword
+- minecraft:iron_sword
+- minecraft:netherite_sword
+
+#c:titanium_small_dusts
+- techreborn:titanium_small_dust
+
+#c:sulfur_dusts
+- techreborn:sulfur_dust
+
+#c:mixed_metal_ingots
+- techreborn:mixed_metal_ingot
+
+#c:zinc_ingots
+- techreborn:zinc_ingot
+
+#forge:end_stones
+- minecraft:end_stone
+
+#trinkets:charm/charm
+- minecraft:totem_of_undying
+
+#c:sodalite_dusts
+- techreborn:sodalite_dust
+
+#c:peridot_gems
+- techreborn:peridot_gem
+
+#fabric:hoes
+- additionaladditions:rose_gold_hoe?
+- additionaladditions:gilded_netherite_hoe?
+- dragonloot:dragon_hoe
+- techreborn:bronze_hoe
+- techreborn:ruby_hoe
+- techreborn:sapphire_hoe
+- techreborn:peridot_hoe
+
+#c:pink_glass_panes
+- minecraft:pink_stained_glass_pane
+
+#techreborn:nuggets
+- techreborn:aluminum_nugget
+- techreborn:brass_nugget
+- techreborn:bronze_nugget
+- techreborn:chrome_nugget
+- techreborn:copper_nugget
+- techreborn:diamond_nugget
+- techreborn:electrum_nugget
+- techreborn:emerald_nugget
+- techreborn:hot_tungstensteel_nugget
+- techreborn:invar_nugget
+- techreborn:iridium_nugget
+- techreborn:lead_nugget
+- techreborn:nickel_nugget
+- techreborn:platinum_nugget
+- techreborn:refined_iron_nugget
+- techreborn:silver_nugget
+- techreborn:steel_nugget
+- techreborn:tin_nugget
+- techreborn:titanium_nugget
+- techreborn:tungsten_nugget
+- techreborn:tungstensteel_nugget
+- techreborn:zinc_nugget
+
+#forge:fences/wooden
+- #minecraft:wooden_fences
+
+#c:sheldonite_ores
+- techreborn:sheldonite_ore
+- techreborn:deepslate_sheldonite_ore
+
+#forge:storage_blocks
+- #forge:storage_blocks/amethyst
+- #forge:storage_blocks/coal
+- #forge:storage_blocks/copper
+- #forge:storage_blocks/diamond
+- #forge:storage_blocks/emerald
+- #forge:storage_blocks/gold
+- #forge:storage_blocks/iron
+- #forge:storage_blocks/lapis
+- #forge:storage_blocks/quartz
+- #forge:storage_blocks/raw_copper
+- #forge:storage_blocks/raw_gold
+- #forge:storage_blocks/raw_iron
+- #forge:storage_blocks/redstone
+- #forge:storage_blocks/netherite
+
+#blockus:herringbone_planks_that_burn
+- blockus:herringbone_oak_planks
+- blockus:herringbone_birch_planks
+- blockus:herringbone_spruce_planks
+- blockus:herringbone_jungle_planks
+- blockus:herringbone_acacia_planks
+- blockus:herringbone_dark_oak_planks
+- blockus:herringbone_white_oak_planks
+- blockus:herringbone_bamboo_planks
+
+#c:tin_blocks
+- techreborn:tin_storage_block
+
+#forge:glass_panes/orange
+- minecraft:orange_stained_glass_pane
+
+#c:diamond_nuggets
+- techreborn:diamond_nugget
+
+#minecraft:beacon_payment_items
+- minecraft:netherite_ingot
+- minecraft:emerald
+- minecraft:diamond
+- minecraft:gold_ingot
+- minecraft:iron_ingot
+- #techreborn:ingots
+
+#forge:ores/quartz
+- minecraft:nether_quartz_ore
+
+#c:gray_glass_stairs
+- mo_glass:gray_stained_glass_stairs
+
+#ae2:smart_cable
+- ae2:white_smart_cable
+- ae2:orange_smart_cable
+- ae2:magenta_smart_cable
+- ae2:light_blue_smart_cable
+- ae2:yellow_smart_cable
+- ae2:lime_smart_cable
+- ae2:pink_smart_cable
+- ae2:gray_smart_cable
+- ae2:light_gray_smart_cable
+- ae2:cyan_smart_cable
+- ae2:purple_smart_cable
+- ae2:blue_smart_cable
+- ae2:brown_smart_cable
+- ae2:green_smart_cable
+- ae2:red_smart_cable
+- ae2:black_smart_cable
+- ae2:fluix_smart_cable
+
+#forge:ingots/brick
+- minecraft:brick
+
+#minecraft:coal_ores
+- minecraft:coal_ore
+- minecraft:deepslate_coal_ore
+
+#c:clear_glass_stairs
+- mo_glass:glass_stairs
+
+#c:gold_ores
+- #minecraft:gold_ores?
+- minecraft:gold_ore
+- minecraft:deepslate_gold_ore
+
+#c:pink_dyes
+- minecraft:pink_dye
+- minecraft:pink_dye
+
+#fabric:cooked_pork
+- minecraft:cooked_porkchop
+- farmersdelight:cooked_bacon
+
+#c:iron_nuggets
+- minecraft:iron_nugget
+
+#c:red_garnet_gems
+- techreborn:red_garnet_gem
+
+#fabric:cooked_bacon
+- farmersdelight:cooked_bacon
+
+#forge:storage_blocks/redstone
+- minecraft:redstone_block
+
+#techreborn:storage_blocks
+- techreborn:advanced_alloy_storage_block
+- techreborn:aluminum_storage_block
+- techreborn:brass_storage_block
+- techreborn:bronze_storage_block
+- techreborn:chrome_storage_block
+- techreborn:electrum_storage_block
+- techreborn:hot_tungstensteel_storage_block
+- techreborn:invar_storage_block
+- techreborn:iridium_storage_block
+- techreborn:iridium_reinforced_stone_storage_block
+- techreborn:iridium_reinforced_tungstensteel_storage_block
+- techreborn:lead_storage_block
+- techreborn:nickel_storage_block
+- techreborn:peridot_storage_block
+- techreborn:platinum_storage_block
+- techreborn:raw_iridium_storage_block
+- techreborn:raw_lead_storage_block
+- techreborn:raw_silver_storage_block
+- techreborn:raw_tin_storage_block
+- techreborn:raw_tungsten_storage_block
+- techreborn:red_garnet_storage_block
+- techreborn:refined_iron_storage_block
+- techreborn:ruby_storage_block
+- techreborn:sapphire_storage_block
+- techreborn:silver_storage_block
+- techreborn:steel_storage_block
+- techreborn:tin_storage_block
+- techreborn:titanium_storage_block
+- techreborn:tungsten_storage_block
+- techreborn:tungstensteel_storage_block
+- techreborn:yellow_garnet_storage_block
+- techreborn:zinc_storage_block
+
+#c:spears
+- minecraft:trident
+
+#minecraft:stairs
+- #minecraft:wooden_stairs
+- minecraft:cobblestone_stairs
+- minecraft:sandstone_stairs
+- minecraft:nether_brick_stairs
+- minecraft:stone_brick_stairs
+- minecraft:brick_stairs
+- minecraft:purpur_stairs
+- minecraft:quartz_stairs
+- minecraft:red_sandstone_stairs
+- minecraft:prismarine_brick_stairs
+- minecraft:prismarine_stairs
+- minecraft:dark_prismarine_stairs
+- minecraft:polished_granite_stairs
+- minecraft:smooth_red_sandstone_stairs
+- minecraft:mossy_stone_brick_stairs
+- minecraft:polished_diorite_stairs
+- minecraft:mossy_cobblestone_stairs
+- minecraft:end_stone_brick_stairs
+- minecraft:stone_stairs
+- minecraft:smooth_sandstone_stairs
+- minecraft:smooth_quartz_stairs
+- minecraft:granite_stairs
+- minecraft:andesite_stairs
+- minecraft:red_nether_brick_stairs
+- minecraft:polished_andesite_stairs
+- minecraft:diorite_stairs
+- minecraft:blackstone_stairs
+- minecraft:polished_blackstone_brick_stairs
+- minecraft:polished_blackstone_stairs
+- minecraft:cobbled_deepslate_stairs
+- minecraft:polished_deepslate_stairs
+- minecraft:deepslate_tile_stairs
+- minecraft:deepslate_brick_stairs
+- minecraft:oxidized_cut_copper_stairs
+- minecraft:weathered_cut_copper_stairs
+- minecraft:exposed_cut_copper_stairs
+- minecraft:cut_copper_stairs
+- minecraft:waxed_weathered_cut_copper_stairs
+- minecraft:waxed_exposed_cut_copper_stairs
+- minecraft:waxed_cut_copper_stairs
+- minecraft:waxed_oxidized_cut_copper_stairs
+- architects_palette:myonite_stairs
+- architects_palette:myonite_brick_stairs
+- architects_palette:mushy_myonite_brick_stairs
+- architects_palette:olivestone_brick_stairs
+- architects_palette:olivestone_tile_stairs
+- architects_palette:algal_brick_stairs
+- architects_palette:overgrown_algal_brick_stairs
+- architects_palette:coal_ore_brick_stairs
+- architects_palette:lapis_ore_brick_stairs
+- architects_palette:redstone_ore_brick_stairs
+- architects_palette:iron_ore_brick_stairs
+- architects_palette:gold_ore_brick_stairs
+- architects_palette:emerald_ore_brick_stairs
+- architects_palette:diamond_ore_brick_stairs
+- architects_palette:polished_packed_ice_stairs
+- architects_palette:osseous_brick_stairs
+- architects_palette:withered_osseous_brick_stairs
+- architects_palette:sunmetal_stairs
+- architects_palette:flint_tile_stairs
+- architects_palette:entwine_stairs
+- architects_palette:gilded_sandstone_stairs
+- architects_palette:plating_stairs
+- architects_palette:warpstone_stairs
+- architects_palette:basalt_tile_stairs
+- architects_palette:entrails_stairs
+- architects_palette:tuff_brick_stairs
+- architects_palette:calcite_brick_stairs
+- architects_palette:dripstone_brick_stairs
+- ecologics:seashell_tile_stairs
+- ecologics:snow_brick_stairs
+- ecologics:ice_brick_stairs
+- mo_glass:glass_stairs
+- mo_glass:white_stained_glass_stairs
+- mo_glass:orange_stained_glass_stairs
+- mo_glass:magenta_stained_glass_stairs
+- mo_glass:light_blue_stained_glass_stairs
+- mo_glass:yellow_stained_glass_stairs
+- mo_glass:lime_stained_glass_stairs
+- mo_glass:pink_stained_glass_stairs
+- mo_glass:gray_stained_glass_stairs
+- mo_glass:light_gray_stained_glass_stairs
+- mo_glass:cyan_stained_glass_stairs
+- mo_glass:purple_stained_glass_stairs
+- mo_glass:blue_stained_glass_stairs
+- mo_glass:brown_stained_glass_stairs
+- mo_glass:green_stained_glass_stairs
+- mo_glass:red_stained_glass_stairs
+- mo_glass:black_stained_glass_stairs
+- mo_glass:tinted_glass_stairs
+- techreborn:rubber_plank_stair
+
+#c:white_glass_panes
+- minecraft:white_stained_glass_pane
+
+#minecraft:logs
+- #minecraft:logs_that_burn
+- #minecraft:crimson_stems
+- #minecraft:warped_stems
+
+#c:titanium_plates
+- techreborn:titanium_plate
+
+#c:emerald_small_dusts
+- techreborn:emerald_small_dust
+
+#forge:raw_materials/gold
+- minecraft:raw_gold
+
+#c:titanium_ingots
+- techreborn:titanium_ingot
+
+#c:white_dyes
+- minecraft:white_dye
+
+#c:invar_nuggets
+- techreborn:invar_nugget
+
+#minecraft:emerald_ores
+- minecraft:emerald_ore
+- minecraft:deepslate_emerald_ore
+
+#c:yellow_glass
+- #c:yellow_glass_blocks
+- #c:yellow_glass_panes
+- #c:yellow_glass_slabs
+- #c:yellow_glass_stairs
+
+#c:black_dye
+- minecraft:black_dye
+
+#c:marble_small_dusts
+- techreborn:marble_small_dust
+
+#c:purple_glass_slabs
+- mo_glass:purple_stained_glass_slab
+
+#c:advanced_alloy_plates
+- techreborn:advanced_alloy_plate
+
+#blockus:white_oak_logs
+- blockus:white_oak_log
+- blockus:white_oak_wood
+- blockus:stripped_white_oak_log
+- blockus:stripped_white_oak_wood
+- blockus:white_oak_small_logs
+
+#c:lime_glass_blocks
+- minecraft:lime_stained_glass
+
+#forge:seeds/wheat
+- minecraft:wheat_seeds
+
+#forge:ingots/iron
+- minecraft:iron_ingot
+
+#c:black_glass_panes
+- minecraft:black_stained_glass_pane
+
+#c:colored_glass_panes
+- minecraft:white_stained_glass_pane
+- minecraft:orange_stained_glass_pane
+- minecraft:magenta_stained_glass_pane
+- minecraft:light_blue_stained_glass_pane
+- minecraft:yellow_stained_glass_pane
+- minecraft:lime_stained_glass_pane
+- minecraft:pink_stained_glass_pane
+- minecraft:gray_stained_glass_pane
+- minecraft:light_gray_stained_glass_pane
+- minecraft:cyan_stained_glass_pane
+- minecraft:purple_stained_glass_pane
+- minecraft:blue_stained_glass_pane
+- minecraft:brown_stained_glass_pane
+- minecraft:green_stained_glass_pane
+- minecraft:red_stained_glass_pane
+- minecraft:black_stained_glass_pane
+
+#ae2:illuminated_panel
+- ae2:monitor
+- ae2:semi_dark_monitor
+- ae2:dark_monitor
+
+#minecraft:anvil
+- minecraft:anvil
+- minecraft:chipped_anvil
+- minecraft:damaged_anvil
+
+#forge:sand
+- #forge:sand/colorless
+- #forge:sand/red
+
+#promenade:palm_logs
+- blockus:palm_small_logs?
+
+#forge:dyes/yellow
+- minecraft:yellow_dye
+
+#c:saltpeter_dusts
+- techreborn:saltpeter_dust
+
+#c:mushrooms
+- minecraft:red_mushroom
+- minecraft:brown_mushroom
+
+#minecraft:iron_ores
+- minecraft:iron_ore
+- minecraft:deepslate_iron_ore
+
+#fabric:seeds
+- #fabric:seeds/cabbage
+- #fabric:seeds/rice
+- #fabric:seeds/tomato
+
+#c:glass_stairs
+- #mo_glass:glass_stairs
+
+#fabric:cooked_fishes
+- #fabric:cooked_fishes/cod
+- #fabric:cooked_fishes/salmon
+
+#minecraft:stone_crafting_materials
+- minecraft:cobblestone
+- minecraft:blackstone
+- minecraft:cobbled_deepslate
+- minecraft:cobblestone
+- minecraft:blackstone
+- minecraft:cobbled_deepslate
+- minecraft:granite
+- minecraft:andesite
+- minecraft:diorite
+
+#minecraft:piglin_repellents
+- minecraft:soul_torch
+- minecraft:soul_lantern
+- minecraft:soul_campfire
+- blockus:soul_lantern_block
+- blockus:soul_o_lantern
+
+#c:advanced_alloy_ingots
+- techreborn:advanced_alloy_ingot
+
+#forge:glass/black
+- minecraft:black_stained_glass
+
+#c:potions
+- minecraft:lingering_potion
+- minecraft:splash_potion
+- minecraft:potion
+
+#c:ruby_dusts
+- techreborn:ruby_dust
+
+#trinkets:chest/necklace
+- arcanus:amulet_of_soothing?
+- arcanus:amulet_of_purging?
+- arcanus:amulet_of_the_master?
+- artifacts:cross_necklace
+- artifacts:flame_pendant
+- artifacts:lucky_scarf
+- artifacts:panic_necklace
+- artifacts:scarf_of_invisibility
+- artifacts:shock_pendant
+- artifacts:thorn_pendant
+- artifacts:charm_of_sinking
+
+#forge:fences/nether_brick
+- minecraft:nether_brick_fence
+
+#forge:rods
+- #forge:rods/blaze
+- #forge:rods/wooden
+
+#c:silver_ores
+- techreborn:silver_ore
+- techreborn:deepslate_silver_ore
+
+#c:lime_glass_panes
+- minecraft:lime_stained_glass_pane
+
+#ae2:knife
+- ae2:certus_quartz_cutting_knife
+- ae2:nether_quartz_cutting_knife
+
+#forge:ores/iron
+- #minecraft:iron_ores
+
+#c:raw_iridium_blocks
+- techreborn:raw_iridium_storage_block
+
+#bookshelf:fence_gates
+- #c:fence_gates
+
+#c:black_glass_blocks
+- minecraft:black_stained_glass
+
+#c:tin_nuggets
+- techreborn:tin_nugget
+
+#minecraft:wooden_stairs
+- minecraft:oak_stairs
+- minecraft:spruce_stairs
+- minecraft:birch_stairs
+- minecraft:jungle_stairs
+- minecraft:acacia_stairs
+- minecraft:dark_oak_stairs
+- minecraft:crimson_stairs
+- minecraft:warped_stairs
+- architects_palette:twisted_stairs
+- blockus:bamboo_stairs
+- blockus:charred_stairs
+- blockus:white_oak_stairs
+- ecologics:coconut_stairs
+- ecologics:walnut_stairs
+- ecologics:azalea_stairs
+- ecologics:flowering_azalea_stairs
+- techreborn:rubber_plank_stair
+- twigs:stripped_bamboo_stairs
+
+#c:platinum_dusts
+- techreborn:platinum_dust
+
+#c:glowstone_dusts
+- minecraft:glowstone_dust
+
+#minecraft:wooden_buttons
+- minecraft:oak_button
+- minecraft:spruce_button
+- minecraft:birch_button
+- minecraft:jungle_button
+- minecraft:acacia_button
+- minecraft:dark_oak_button
+- minecraft:crimson_button
+- minecraft:warped_button
+- architects_palette:twisted_button
+- blockus:bamboo_button
+- blockus:charred_button
+- blockus:white_oak_button
+- ecologics:coconut_button
+- ecologics:walnut_button
+- ecologics:azalea_button
+- techreborn:rubber_button
+- twigs:stripped_bamboo_button
+
+#ae2:quartz_wrench
+- ae2:certus_quartz_wrench
+- ae2:nether_quartz_wrench
+
+#c:milk_buckets
+- minecraft:milk_bucket
+
+#forge:storage_blocks/quartz
+- minecraft:quartz_block
+
+#forge:dyes/green
+- minecraft:green_dye
+
+#forge:ores/emerald
+- #minecraft:emerald_ores
+
+#balm:lime_dyes
+- #c:lime_dyes?
+- minecraft:lime_dye
+
+#techreborn:plantball_material
+- #minecraft:leaves
+- #minecraft:saplings
+- minecraft:beetroot
+- minecraft:carrot
+- minecraft:potato
+- minecraft:wheat
+- minecraft:melon
+- minecraft:sugar_cane
+- minecraft:cactus
+- minecraft:apple
+- minecraft:pumpkin
+- minecraft:kelp
+- minecraft:sweet_berries
+
+#forge:dyes/lime
+- minecraft:lime_dye
+
+#blockus:barriers
+- blockus:caution_barrier
+- blockus:road_barrier
+
+#c:raw_tungsten_ores
+- techreborn:raw_tungsten
+
+#fabric:raw_chicken
+- minecraft:chicken
+- farmersdelight:chicken_cuts
+
+#c:green_glass_panes
+- minecraft:green_stained_glass_pane
+
+#c:calcite_dusts
+- techreborn:calcite_dust
+
+#c:aluminum_nuggets
+- techreborn:aluminum_nugget
+
+#toolstats:ignore_harvest_level
+
+#c:silver_blocks
+- techreborn:silver_storage_block
+
+#c:light_gray_glass_blocks
+- minecraft:light_gray_stained_glass
+
+#forge:barrels/wooden
+- minecraft:barrel
+
+#c:basalt
+- minecraft:basalt
+- minecraft:polished_basalt
+- minecraft:smooth_basalt
+
+#forge:storage_blocks/raw_iron
+- minecraft:raw_iron_block
+
+#c:ender_pearls
+- minecraft:ender_pearl
+
+#c:sphalerite_dusts
+- techreborn:sphalerite_dust
+
+#architects_palette:twisted_logs
+- architects_palette:twisted_log
+- architects_palette:stripped_twisted_log
+- architects_palette:twisted_wood
+- architects_palette:stripped_twisted_wood
+
+#minecraft:tall_flowers
+- minecraft:sunflower
+- minecraft:lilac
+- minecraft:peony
+- minecraft:rose_bush
+
+#c:light_gray_glass
+- #c:light_gray_glass_blocks
+- #c:light_gray_glass_panes
+- #c:light_gray_glass_slabs
+- #c:light_gray_glass_stairs
+
+#c:brass_dusts
+- techreborn:brass_dust
+
+#c:red_garnet_small_dusts
+- techreborn:red_garnet_small_dust
+
+#c:quartz
+- minecraft:quartz
+- minecraft:quartz
+
+#forge:bookshelves
+- minecraft:bookshelf
+
+#c:lead_blocks
+- techreborn:lead_storage_block
+
+#c:small_corals_blue
+- minecraft:tube_coral
+- minecraft:tube_coral_fan
+
+#forge:ores_in_ground/stone
+- minecraft:coal_ore
+- minecraft:copper_ore
+- minecraft:diamond_ore
+- minecraft:emerald_ore
+- minecraft:gold_ore
+- minecraft:iron_ore
+- minecraft:lapis_ore
+- minecraft:redstone_ore
+
+#forge:dyes
+- #forge:dyes/white
+- #forge:dyes/orange
+- #forge:dyes/magenta
+- #forge:dyes/light_blue
+- #forge:dyes/yellow
+- #forge:dyes/lime
+- #forge:dyes/pink
+- #forge:dyes/gray
+- #forge:dyes/light_gray
+- #forge:dyes/cyan
+- #forge:dyes/purple
+- #forge:dyes/blue
+- #forge:dyes/brown
+- #forge:dyes/green
+- #forge:dyes/red
+- #forge:dyes/black
+
+#c:chromium_nuggets
+- techreborn:chrome_nugget
+
+#forge:glass_panes/pink
+- minecraft:pink_stained_glass_pane
+
+#minecraft:dirt
+- minecraft:dirt
+- minecraft:grass_block
+- minecraft:podzol
+- minecraft:coarse_dirt
+- minecraft:mycelium
+- minecraft:rooted_dirt
+- minecraft:moss_block
+- blockus:legacy_grass_block
+- blockus:legacy_first_grass_block
+
+#forge:netherrack
+- minecraft:netherrack
+
+#c:red_garnet_plates
+- techreborn:red_garnet_plate
+
+#c:brown_glass_slabs
+- mo_glass:brown_stained_glass_slab
+
+#c:tungsten_small_dusts
+- techreborn:tungsten_small_dust
+
+#minecraft:soul_fire_base_blocks
+- minecraft:soul_sand
+- minecraft:soul_soil
+
+#bookshelf:shears
+- #c:shears
+
+#fabric:eggs
+- minecraft:egg
+
+#blockus:planks_that_burn
+- minecraft:oak_planks
+- minecraft:spruce_planks
+- minecraft:birch_planks
+- minecraft:jungle_planks
+- minecraft:acacia_planks
+- minecraft:dark_oak_planks
+- blockus:bamboo_planks
+- blockus:white_oak_planks
+- blockus:legacy_planks
+
+#c:foods
+- minecraft:apple
+- minecraft:mushroom_stew
+- minecraft:bread
+- minecraft:porkchop
+- minecraft:cooked_porkchop
+- minecraft:golden_apple
+- minecraft:enchanted_golden_apple
+- minecraft:cod
+- minecraft:salmon
+- minecraft:tropical_fish
+- minecraft:pufferfish
+- minecraft:cooked_cod
+- minecraft:cooked_salmon
+- minecraft:cookie
+- minecraft:melon_slice
+- minecraft:dried_kelp
+- minecraft:beef
+- minecraft:cooked_beef
+- minecraft:chicken
+- minecraft:cooked_chicken
+- minecraft:rotten_flesh
+- minecraft:spider_eye
+- minecraft:carrot
+- minecraft:potato
+- minecraft:baked_potato
+- minecraft:poisonous_potato
+- minecraft:golden_carrot
+- minecraft:pumpkin_pie
+- minecraft:rabbit
+- minecraft:cooked_rabbit
+- minecraft:rabbit_stew
+- minecraft:mutton
+- minecraft:cooked_mutton
+- minecraft:chorus_fruit
+- minecraft:beetroot
+- minecraft:beetroot_soup
+- minecraft:suspicious_stew
+- minecraft:sweet_berries
+- minecraft:glow_berries
+- minecraft:honey_bottle
+
+#c:light_blue_dye
+- minecraft:light_blue_dye
+
+#forge:eggs
+- minecraft:egg
+
+#c:granite_dusts
+- techreborn:granite_dust
+
+#c:purple_glass_panes
+- minecraft:purple_stained_glass_pane
+
+#forge:dyes/red
+- minecraft:red_dye
+
+#promenade:cherry_oak_logs
+- blockus:cherry_oak_small_logs?
+
+#companion:ranged_weapon
+- minecraft:crossbow
+
+#tooltiprareness:legendary_item
+- adventurez:source_stone
+
+#forge:glass_panes/cyan
+- minecraft:cyan_stained_glass_pane
+
+#fabric:raw_fishes/tropical_fish
+- minecraft:tropical_fish
+
+#c:lapis
+- minecraft:lapis_lazuli
+
+#fabric:cooked_fishes/cod
+- minecraft:cooked_cod
+- farmersdelight:cooked_cod_slice
+
+#forge:dusts/glowstone
+- minecraft:glowstone_dust
+
+#c:coral_plants
+- #c:living_coral_plants
+- #c:dead_coral_plants
+
+#minecraft:wool
+- minecraft:white_wool
+- minecraft:orange_wool
+- minecraft:magenta_wool
+- minecraft:light_blue_wool
+- minecraft:yellow_wool
+- minecraft:lime_wool
+- minecraft:pink_wool
+- minecraft:gray_wool
+- minecraft:light_gray_wool
+- minecraft:cyan_wool
+- minecraft:purple_wool
+- minecraft:blue_wool
+- minecraft:brown_wool
+- minecraft:green_wool
+- minecraft:red_wool
+- minecraft:black_wool
+- #blockus:patterned_wool
+
+#forge:glass/colorless
+- minecraft:glass
+
+#c:iridium_plates
+- techreborn:iridium_plate
+
+#c:sapphire_small_dusts
+- techreborn:sapphire_small_dust
+
+#c:raw_tungsten_blocks
+- techreborn:raw_tungsten_storage_block
+
+#fabric:vegetables/beetroot
+- minecraft:beetroot
+
+#c:sphalerite_small_dusts
+- techreborn:sphalerite_small_dust
+
+#c:living_coral_plants
+- minecraft:tube_coral
+- minecraft:brain_coral
+- minecraft:bubble_coral
+- minecraft:fire_coral
+- minecraft:horn_coral
+
+#forge:stained_glass
+- minecraft:white_stained_glass
+- minecraft:orange_stained_glass
+- minecraft:magenta_stained_glass
+- minecraft:light_blue_stained_glass
+- minecraft:yellow_stained_glass
+- minecraft:lime_stained_glass
+- minecraft:pink_stained_glass
+- minecraft:gray_stained_glass
+- minecraft:light_gray_stained_glass
+- minecraft:cyan_stained_glass
+- minecraft:purple_stained_glass
+- minecraft:blue_stained_glass
+- minecraft:brown_stained_glass
+- minecraft:green_stained_glass
+- minecraft:red_stained_glass
+- minecraft:black_stained_glass
+
+#forge:nuggets/gold
+- minecraft:gold_nugget
+
+#trinkets:hand/glove
+- arcanus:gloves_of_disengagement?
+- arcanus:gloves_of_the_hippocratic_oath?
+- artifacts:digging_claws
+- artifacts:feral_claws
+- artifacts:fire_gauntlet
+- artifacts:pocket_piston
+- artifacts:power_glove
+- artifacts:vampiric_glove
+- artifacts:golden_hook
+
+#forge:nether_stars
+- minecraft:nether_star
+
+#fabric:shovels
+- additionaladditions:rose_gold_shovel?
+- additionaladditions:gilded_netherite_shovel?
+- dragonloot:dragon_shovel
+- techreborn:bronze_spade
+- techreborn:ruby_spade
+- techreborn:sapphire_spade
+- techreborn:peridot_spade
+- techreborn:basic_drill
+- techreborn:advanced_drill
+- techreborn:industrial_drill
+- techreborn:omni_tool
+
+#c:phosphorous_dusts
+- techreborn:phosphorous_dust
+
+#c:andesite_dusts
+- techreborn:andesite_dust
+
+#c:purple_glass_stairs
+- mo_glass:purple_stained_glass_stairs
+
+#c:raw_silver_blocks
+- techreborn:raw_silver_storage_block
+
+#c:invar_small_dusts
+- techreborn:invar_small_dust
+
+#c:nickel_nuggets
+- techreborn:nickel_nugget
+
+#curios:cosmetic_helmet
+- adventurez:stone_golem_helmet
+
+#forge:bones
+- minecraft:bone
+
+#c:cyan_glass_slabs
+- mo_glass:cyan_stained_glass_slab
+
+#forge:glass_panes
+- #forge:glass_panes/colorless
+- #forge:stained_glass_panes
+
+#forge:enchanting_fuels
+- #forge:gems/lapis
+
+#minecraft:non_flammable_wood
+- minecraft:warped_stem
+- minecraft:stripped_warped_stem
+- minecraft:warped_hyphae
+- minecraft:stripped_warped_hyphae
+- minecraft:crimson_stem
+- minecraft:stripped_crimson_stem
+- minecraft:crimson_hyphae
+- minecraft:stripped_crimson_hyphae
+- minecraft:crimson_planks
+- minecraft:warped_planks
+- minecraft:crimson_slab
+- minecraft:warped_slab
+- minecraft:crimson_pressure_plate
+- minecraft:warped_pressure_plate
+- minecraft:crimson_fence
+- minecraft:warped_fence
+- minecraft:crimson_trapdoor
+- minecraft:warped_trapdoor
+- minecraft:crimson_fence_gate
+- minecraft:warped_fence_gate
+- minecraft:crimson_stairs
+- minecraft:warped_stairs
+- minecraft:crimson_button
+- minecraft:warped_button
+- minecraft:crimson_door
+- minecraft:warped_door
+- minecraft:crimson_sign
+- minecraft:warped_sign
+- blockus:charred_planks
+- blockus:charred_slab
+- blockus:charred_pressure_plate
+- blockus:charred_fence
+- blockus:charred_trapdoor
+- blockus:charred_fence_gate
+- blockus:charred_stairs
+- blockus:charred_button
+- blockus:charred_door
+- blockus:warped_small_stems
+- blockus:crimson_small_stems
+- blockus:herringbone_crimson_planks
+- blockus:herringbone_warped_planks
+- blockus:herringbone_charred_planks
+- decorative_blocks:warped_beam
+- decorative_blocks:warped_palisade
+- decorative_blocks:warped_seat
+- decorative_blocks:warped_support
+- decorative_blocks:crimson_beam
+- decorative_blocks:crimson_palisade
+- decorative_blocks:crimson_seat
+- decorative_blocks:crimson_support
+
+#c:andradite_small_dusts
+- techreborn:andradite_small_dust
+
+#fabric:tools/pickaxes
+- minecraft:wooden_pickaxe
+- minecraft:stone_pickaxe
+- minecraft:iron_pickaxe
+- minecraft:diamond_pickaxe
+- minecraft:golden_pickaxe
+- minecraft:netherite_pickaxe
+
+#fabric:raw_bacon
+- farmersdelight:bacon
+
+#fabric:vegetables/onion
+- farmersdelight:onion
+
+#minecraft:lapis_ores
+- minecraft:lapis_ore
+- minecraft:deepslate_lapis_ore
+
+#c:emeralds
+- minecraft:emerald
+
+#c:platinum_plates
+- techreborn:platinum_plate
+
+#c:colored_glass_blocks
+- minecraft:white_stained_glass
+- minecraft:orange_stained_glass
+- minecraft:magenta_stained_glass
+- minecraft:light_blue_stained_glass
+- minecraft:yellow_stained_glass
+- minecraft:lime_stained_glass
+- minecraft:pink_stained_glass
+- minecraft:gray_stained_glass
+- minecraft:light_gray_stained_glass
+- minecraft:cyan_stained_glass
+- minecraft:purple_stained_glass
+- minecraft:blue_stained_glass
+- minecraft:brown_stained_glass
+- minecraft:green_stained_glass
+- minecraft:red_stained_glass
+- minecraft:black_stained_glass
+
+#c:sapphire_blocks
+- techreborn:sapphire_storage_block
+
+#trinkets:feet/shoes
+- artifacts:bunny_hoppers
+- artifacts:flippers
+- artifacts:kitty_slippers
+- artifacts:running_shoes
+- artifacts:steadfast_spikes
+- artifacts:aqua_dashers
+
+#environmentz:insolating_item
+- adventurez:mammoth_fur
+
+#forge:ingots/netherite
+- minecraft:netherite_ingot
+
+#c:electrum_blocks
+- techreborn:electrum_storage_block
+
+#forge:seeds/beetroot
+- minecraft:beetroot_seeds
+
+#ae2:paint_balls
+- ae2:white_paint_ball
+- ae2:orange_paint_ball
+- ae2:magenta_paint_ball
+- ae2:light_blue_paint_ball
+- ae2:yellow_paint_ball
+- ae2:lime_paint_ball
+- ae2:pink_paint_ball
+- ae2:gray_paint_ball
+- ae2:light_gray_paint_ball
+- ae2:cyan_paint_ball
+- ae2:purple_paint_ball
+- ae2:blue_paint_ball
+- ae2:brown_paint_ball
+- ae2:green_paint_ball
+- ae2:red_paint_ball
+- ae2:black_paint_ball
+
+#c:diorite_small_dusts
+- techreborn:diorite_small_dust
+
+#lovely_snails:snail_food_items
+- #lovely_snails:snail_breeding_items
+- minecraft:fern
+- minecraft:grass
+- minecraft:kelp
+
+#c:quartz_dusts
+- techreborn:quartz_dust
+
+#c:lazurite_dusts
+- techreborn:lazurite_dust
+
+#c:raw_lead_blocks
+- techreborn:raw_lead_storage_block
+
+#c:pink_dye
+- minecraft:pink_dye
+
+#c:manganese_small_dusts
+- techreborn:manganese_small_dust
+
+#c:titanium_blocks
+- techreborn:titanium_storage_block
+
+#c:light_blue_dyes
+- minecraft:light_blue_dye
+- minecraft:light_blue_dye
+
+#c:glass
+- minecraft:glass
+- minecraft:white_stained_glass
+- minecraft:orange_stained_glass
+- minecraft:magenta_stained_glass
+- minecraft:light_blue_stained_glass
+- minecraft:yellow_stained_glass
+- minecraft:lime_stained_glass
+- minecraft:pink_stained_glass
+- minecraft:gray_stained_glass
+- minecraft:light_gray_stained_glass
+- minecraft:cyan_stained_glass
+- minecraft:purple_stained_glass
+- minecraft:blue_stained_glass
+- minecraft:brown_stained_glass
+- minecraft:green_stained_glass
+- minecraft:red_stained_glass
+- minecraft:black_stained_glass
+- #c:glass_blocks
+- #c:glass_panes
+- #c:glass_slabs
+- #c:glass_stairs
+
+#c:iron_ingots
+- minecraft:iron_ingot
+- minecraft:iron_ingot
+- minecraft:iron_ingot
+
+#c:charcoal_dusts
+- techreborn:charcoal_dust
+
+#forge:feathers
+- minecraft:feather
+
+#yigd:soulbound_item
+
+#balm:magenta_dyes
+- #c:magenta_dyes?
+- minecraft:magenta_dye
+
+#blockus:warped_nether_grass
+- minecraft:nether_sprouts
+- minecraft:warped_roots
+
+#c:nickel_ingots
+- techreborn:nickel_ingot
+
+#c:copper_ores
+- minecraft:copper_ore
+- minecraft:deepslate_copper_ore
+
+#forge:string
+- minecraft:string
+
+#techreborn:ores
+- techreborn:bauxite_ore
+- techreborn:cinnabar_ore
+- techreborn:galena_ore
+- techreborn:iridium_ore
+- techreborn:lead_ore
+- techreborn:peridot_ore
+- techreborn:pyrite_ore
+- techreborn:ruby_ore
+- techreborn:sapphire_ore
+- techreborn:sheldonite_ore
+- techreborn:silver_ore
+- techreborn:sodalite_ore
+- techreborn:sphalerite_ore
+- techreborn:tin_ore
+- techreborn:tungsten_ore
+- techreborn:deepslate_bauxite_ore
+- techreborn:deepslate_galena_ore
+- techreborn:deepslate_iridium_ore
+- techreborn:deepslate_lead_ore
+- techreborn:deepslate_peridot_ore
+- techreborn:deepslate_ruby_ore
+- techreborn:deepslate_sapphire_ore
+- techreborn:deepslate_sheldonite_ore
+- techreborn:deepslate_silver_ore
+- techreborn:deepslate_sodalite_ore
+- techreborn:deepslate_tin_ore
+- techreborn:deepslate_tungsten_ore
+
+#c:raw_silver_ores
+- techreborn:raw_silver
+
+#balm:eggs
+- #c:eggs?
+- minecraft:egg
+
+#c:hot_tungstensteel_ingots
+- techreborn:hot_tungstensteel_ingot
+
+#ecologics:coconut_logs
+- ecologics:coconut_log
+- ecologics:stripped_coconut_log
+- ecologics:coconut_wood
+- ecologics:stripped_coconut_wood
+
+#c:yellow_garnet_plates
+- techreborn:yellow_garnet_plate
+
+#c:aluminum_dusts
+- techreborn:aluminum_dust
+
+#c:water_buckets
+- minecraft:axolotl_bucket
+- minecraft:cod_bucket
+- minecraft:pufferfish_bucket
+- minecraft:tropical_fish_bucket
+- minecraft:salmon_bucket
+- minecraft:water_bucket
+
+#minecraft:leaves
+- minecraft:jungle_leaves
+- minecraft:oak_leaves
+- minecraft:spruce_leaves
+- minecraft:dark_oak_leaves
+- minecraft:acacia_leaves
+- minecraft:birch_leaves
+- minecraft:azalea_leaves
+- minecraft:flowering_azalea_leaves
+- architects_palette:twisted_leaves
+- blockus:white_oak_leaves
+- blockus:legacy_leaves
+- blossom:flowering_oak_leaves
+- ecologics:coconut_leaves
+- ecologics:walnut_leaves
+- techreborn:rubber_leaves
+
+#c:platinum_nuggets
+- techreborn:platinum_nugget
+
+#c:string
+- minecraft:string
+- minecraft:string
+
+#c:white_glass_stairs
+- mo_glass:white_stained_glass_stairs
+
+#forge:glass_panes/gray
+- minecraft:gray_stained_glass_pane
+
+#balm:pink_dyes
+- #c:pink_dyes?
+- minecraft:pink_dye
+
+#minecraft:acacia_logs
+- minecraft:acacia_log
+- minecraft:acacia_wood
+- minecraft:stripped_acacia_log
+- minecraft:stripped_acacia_wood
+- blockus:acacia_small_logs
+- decorative_blocks:acacia_beam
+
+#minecraft:piglin_loved
+- #minecraft:gold_ores
+- minecraft:gold_block
+- minecraft:gilded_blackstone
+- minecraft:light_weighted_pressure_plate
+- minecraft:gold_ingot
+- minecraft:bell
+- minecraft:clock
+- minecraft:golden_carrot
+- minecraft:glistering_melon_slice
+- minecraft:golden_apple
+- minecraft:enchanted_golden_apple
+- minecraft:golden_helmet
+- minecraft:golden_chestplate
+- minecraft:golden_leggings
+- minecraft:golden_boots
+- minecraft:golden_horse_armor
+- minecraft:golden_sword
+- minecraft:golden_pickaxe
+- minecraft:golden_shovel
+- minecraft:golden_axe
+- minecraft:golden_hoe
+- minecraft:raw_gold
+- minecraft:raw_gold_block
+- artifacts:golden_hook
+- blockus:legacy_gold_block
+- blockus:legacy_explosion_proof_gold_block
+- blockus:golden_chain
+- blockus:golden_bars
+- blockus:golden_gate
+- blockus:gold_decorated_sandstone
+- blockus:gold_decorated_red_sandstone
+- blockus:gold_decorated_soul_sandstone
+- blockus:gold_decorated_polished_blackstone
+- blockus:gold_plating
+- blockus:gold_plating_stairs
+- blockus:gold_plating_slab
+- blockus:golden_apple_crate
+- blockus:golden_carrot_crate
+- chiselsandbits:chisel_gold
+- farmersdelight:golden_knife
+- harvest_scythes:golden_scythe
+- harvest_scythes:golden_machete
+- immersive_weathering:golden_moss_clump
+- techreborn:gold_plate
+- techreborn:gold_cable
+- techreborn:insulated_gold_cable
+- techreborn:electrum_ingot
+- techreborn:electrum_plate
+- techreborn:electrum_storage_block
+- wolveswitharmor:golden_wolf_armor
+
+#c:obsidian_plates
+- techreborn:obsidian_plate
+
+#c:magenta_glass_panes
+- minecraft:magenta_stained_glass_pane
+
+#c:ender_eye_dusts
+- techreborn:ender_eye_dust
+
+#c:iron_plates
+- techreborn:iron_plate
+
+#c:copper_ingots
+- minecraft:copper_ingot
+- minecraft:copper_ingot
+- minecraft:copper_ingot
+
+#forge:sand/red
+- minecraft:red_sand
+
+#c:iridium_ingots
+- techreborn:iridium_ingot
+
+#c:basalt_dusts
+- techreborn:basalt_dust
+
+#c:silicon
+- ae2:silicon
+
+#c:platinum_blocks
+- techreborn:platinum_storage_block
+
+#forge:glass/brown
+- minecraft:brown_stained_glass
+
+#fabric:raw_pork
+- minecraft:porkchop
+- farmersdelight:bacon
+
+#c:invar_dusts
+- techreborn:invar_dust
+
+#minecraft:logs_that_burn
+- #minecraft:dark_oak_logs
+- #minecraft:oak_logs
+- #minecraft:acacia_logs
+- #minecraft:birch_logs
+- #minecraft:jungle_logs
+- #minecraft:spruce_logs
+- #architects_palette:twisted_logs
+- #blockus:white_oak_logs
+- blockus:legacy_log
+- #ecologics:coconut_logs
+- #ecologics:walnut_logs
+- #ecologics:azalea_logs
+- #techreborn:rubber_logs
+
+#curios:cosmetic_leggings
+- adventurez:stone_golem_leggings
+
+#c:clear_glass_blocks
+- minecraft:glass
+
+#c:black_glass_slabs
+- mo_glass:black_stained_glass_slab
+
+#c:colored_glass
+- #c:colored_glass_blocks
+- #c:colored_glass_panes
+- #c:colored_glass_slabs
+- #c:colored_glass_stairs
+
+#forge:glass/light_gray
+- minecraft:light_gray_stained_glass
+
+#c:bronze_ingots
+- techreborn:bronze_ingot
+
+#c:wheat_crops
+- minecraft:wheat
+
+#c:silver_nuggets
+- techreborn:silver_nugget
+
+#minecraft:wooden_slabs
+- minecraft:oak_slab
+- minecraft:spruce_slab
+- minecraft:birch_slab
+- minecraft:jungle_slab
+- minecraft:acacia_slab
+- minecraft:dark_oak_slab
+- minecraft:crimson_slab
+- minecraft:warped_slab
+- architects_palette:twisted_slab
+- blockus:bamboo_slab
+- blockus:charred_slab
+- blockus:white_oak_slab
+- ecologics:coconut_slab
+- ecologics:walnut_slab
+- ecologics:azalea_slab
+- ecologics:flowering_azalea_slab
+- techreborn:rubber_plank_slab
+- twigs:stripped_bamboo_slab
+
+#forge:dyes/white
+- minecraft:white_dye
+
+#c:raw_tin_ores
+- techreborn:raw_tin
+
+#minecraft:small_flowers
+- minecraft:dandelion
+- minecraft:poppy
+- minecraft:blue_orchid
+- minecraft:allium
+- minecraft:azure_bluet
+- minecraft:red_tulip
+- minecraft:orange_tulip
+- minecraft:white_tulip
+- minecraft:pink_tulip
+- minecraft:oxeye_daisy
+- minecraft:cornflower
+- minecraft:lily_of_the_valley
+- minecraft:wither_rose
+- blockus:rainbow_rose
+- #farmersdelight:wild_crops
+
+#c:charcoal_small_dusts
+- techreborn:charcoal_small_dust
+
+#forge:seeds/pumpkin
+- minecraft:pumpkin_seeds
+
+#forge:ore_bearing_ground/stone
+- minecraft:stone
+
+#trinkets:chest/back
+- minecraft:shulker_box
+- minecraft:white_shulker_box
+- minecraft:orange_shulker_box
+- minecraft:magenta_shulker_box
+- minecraft:light_blue_shulker_box
+- minecraft:yellow_shulker_box
+- minecraft:lime_shulker_box
+- minecraft:pink_shulker_box
+- minecraft:gray_shulker_box
+- minecraft:light_gray_shulker_box
+- minecraft:cyan_shulker_box
+- minecraft:purple_shulker_box
+- minecraft:blue_shulker_box
+- minecraft:brown_shulker_box
+- minecraft:green_shulker_box
+- minecraft:red_shulker_box
+- minecraft:black_shulker_box
+- enderitemod:enderite_shulker_box?
+- netherite_plus:netherite_shulker_box?
+- netherite_plus:netherite_white_shulker_box?
+- netherite_plus:netherite_orange_shulker_box?
+- netherite_plus:netherite_magenta_shulker_box?
+- netherite_plus:netherite_light_blue_shulker_box?
+- netherite_plus:netherite_yellow_shulker_box?
+- netherite_plus:netherite_lime_shulker_box?
+- netherite_plus:netherite_pink_shulker_box?
+- netherite_plus:netherite_gray_shulker_box?
+- netherite_plus:netherite_light_gray_shulker_box?
+- netherite_plus:netherite_cyan_shulker_box?
+- netherite_plus:netherite_purple_shulker_box?
+- netherite_plus:netherite_blue_shulker_box?
+- netherite_plus:netherite_brown_shulker_box?
+- netherite_plus:netherite_green_shulker_box?
+- netherite_plus:netherite_red_shulker_box?
+- netherite_plus:netherite_black_shulker_box?
+
+#architects_palette:olivestone_slabs
+- architects_palette:olivestone_tile_slab
+- architects_palette:olivestone_brick_slab
+
+#c:fence_gates
+- minecraft:acacia_fence_gate
+- minecraft:birch_fence_gate
+- minecraft:dark_oak_fence_gate
+- minecraft:jungle_fence_gate
+- minecraft:oak_fence_gate
+- minecraft:spruce_fence_gate
+- minecraft:crimson_fence_gate
+- minecraft:warped_fence_gate
+
+#forge:dusts/redstone
+- minecraft:redstone
+
+#c:bauxite_dusts
+- techreborn:bauxite_dust
+
+#c:colored_glass_stairs
+- mo_glass:white_stained_glass_stairs
+- mo_glass:orange_stained_glass_stairs
+- mo_glass:magenta_stained_glass_stairs
+- mo_glass:light_blue_stained_glass_stairs
+- mo_glass:yellow_stained_glass_stairs
+- mo_glass:lime_stained_glass_stairs
+- mo_glass:pink_stained_glass_stairs
+- mo_glass:gray_stained_glass_stairs
+- mo_glass:light_gray_stained_glass_stairs
+- mo_glass:cyan_stained_glass_stairs
+- mo_glass:purple_stained_glass_stairs
+- mo_glass:blue_stained_glass_stairs
+- mo_glass:brown_stained_glass_stairs
+- mo_glass:green_stained_glass_stairs
+- mo_glass:red_stained_glass_stairs
+- mo_glass:black_stained_glass_stairs
+
+#forge:gems/quartz
+- minecraft:quartz
+
+#c:galena_small_dusts
+- techreborn:galena_small_dust
+
+#c:saw_small_dusts
+- techreborn:saw_small_dust
+
+#forge:crops/beetroot
+- minecraft:beetroot
+
+#fabric:vegetables/tomato
+- farmersdelight:tomato
+
+#c:purple_dyes
+- minecraft:purple_dye
+- minecraft:purple_dye
+
+#forge:seeds/melon
+- minecraft:melon_seeds
+
+#c:raw_iridium_ores
+- techreborn:raw_iridium
+
+#curios:cosmetic_chestplate
+- adventurez:stone_golem_chestplate
+
+#c:nickel_dusts
+- techreborn:nickel_dust
+
+#c:sulfur_small_dusts
+- techreborn:sulfur_small_dust
+
+#minecraft:creeper_drop_music_discs
+- minecraft:music_disc_13
+- minecraft:music_disc_cat
+- minecraft:music_disc_blocks
+- minecraft:music_disc_chirp
+- minecraft:music_disc_far
+- minecraft:music_disc_mall
+- minecraft:music_disc_mellohi
+- minecraft:music_disc_stal
+- minecraft:music_disc_strad
+- minecraft:music_disc_ward
+- minecraft:music_disc_11
+- minecraft:music_disc_wait
+- additionaladditions:music_disc_0308?
+- additionaladditions:music_disc_1007?
+- additionaladditions:music_disc_1507?
+
+#c:brown_glass_blocks
+- minecraft:brown_stained_glass
+
+#fabric:cooked_mutton
+- minecraft:cooked_mutton
+- farmersdelight:cooked_mutton_chops
+
+#c:andradite_dusts
+- techreborn:andradite_dust
+
+#c:red_glass_slabs
+- mo_glass:red_stained_glass_slab
+
+#c:lapis_plates
+- techreborn:lapis_plate
+
+#c:bronze_plates
+- techreborn:bronze_plate
+
+#c:flint_small_dusts
+- techreborn:flint_small_dust
+
+#c:gold_ingots
+- minecraft:gold_ingot
+- minecraft:gold_ingot
+
+#c:raw_lead_ores
+- techreborn:raw_lead
+
+#c:steel_dusts
+- techreborn:steel_dust
+
+#companion:charged_ranged_weapon
+- minecraft:bow
+- minecraft:trident
+
+#c:white_glass_blocks
+- minecraft:white_stained_glass
+
+#c:light_gray_dyes
+- minecraft:light_gray_dye
+- minecraft:light_gray_dye
+
+#c:withered_bones
+- architects_palette:withered_bone
+
+#c:obsidian_small_dusts
+- techreborn:obsidian_small_dust
+
+#waystones:dyed_sharestone
+- waystones:white_sharestone
+- waystones:orange_sharestone
+- waystones:magenta_sharestone
+- waystones:light_blue_sharestone
+- waystones:yellow_sharestone
+- waystones:lime_sharestone
+- waystones:pink_sharestone
+- waystones:gray_sharestone
+- waystones:light_gray_sharestone
+- waystones:cyan_sharestone
+- waystones:purple_sharestone
+- waystones:blue_sharestone
+- waystones:brown_sharestone
+- waystones:green_sharestone
+- waystones:red_sharestone
+- waystones:black_sharestone
+
+#c:lime_glass_stairs
+- mo_glass:lime_stained_glass_stairs
+
+#bookshelf:strings
+- #c:strings
+- #c:string
+
+#c:certus_quartz_ores
+- ae2:quartz_ore
+- ae2:deepslate_quartz_ore
+
+#forge:glass_panes/purple
+- minecraft:purple_stained_glass_pane
+
+#forge:dusts
+- #forge:dusts/glowstone
+- #forge:dusts/prismarine
+- #forge:dusts/redstone
+
+#fabric:crops/tomato
+- farmersdelight:tomato
+
+#c:raw_gold_ores
+- minecraft:raw_gold
+
+#forge:glass/yellow
+- minecraft:yellow_stained_glass
+
+#c:red_garnet_blocks
+- techreborn:red_garnet_storage_block
+
+#c:black_glass_stairs
+- mo_glass:black_stained_glass_stairs
+
+#c:blue_glass_panes
+- minecraft:blue_stained_glass_pane
+
+#blockus:natural_ice
+- minecraft:ice
+- minecraft:packed_ice
+- minecraft:blue_ice
+
+#nears:sundae_soils
+- #minecraft:soul_fire_base_blocks
+
+#c:raw_meat
+- minecraft:beef
+- minecraft:chicken
+- minecraft:cod
+- minecraft:mutton
+- minecraft:porkchop
+- minecraft:rabbit
+- minecraft:salmon
+
+#c:diamonds
+- minecraft:diamond
+- minecraft:diamond
+
+#forge:barrels
+- #forge:barrels/wooden
+
+#ae2:all_nether_quartz
+- #c:quartz
+
+#c:black_glass
+- #c:black_glass_blocks
+- #c:black_glass_panes
+- #c:black_glass_slabs
+- #c:black_glass_stairs
+
+#c:gold_plates
+- techreborn:gold_plate
+
+#c:bookshelves
+- arcanus:fillable_bookshelf
+
+#fabric:cooked_chicken
+- minecraft:cooked_chicken
+- farmersdelight:cooked_chicken_cuts
+
+#c:zinc_dusts
+- techreborn:zinc_dust
+
+#c:purple_glass_blocks
+- minecraft:purple_stained_glass
+
+#c:zinc_blocks
+- techreborn:zinc_storage_block
+
+#forge:chests/ender
+- minecraft:ender_chest
+
+#terralith:spire/rare_tools
+- minecraft:iron_pickaxe
+- minecraft:iron_shovel
+- minecraft:iron_axe
+- minecraft:iron_sword
+- minecraft:iron_helmet
+- minecraft:iron_chestplate
+- minecraft:iron_leggings
+- minecraft:iron_boots
+- minecraft:diamond_hoe
+- minecraft:diamond_shovel
+
+#trinkets:head/hat
+- artifacts:night_vision_goggles
+- artifacts:novelty_drinking_hat
+- artifacts:plastic_drinking_hat
+- artifacts:snorkel
+- artifacts:superstitious_hat
+- artifacts:villager_hat
+
+#c:yellow_glass_slabs
+- mo_glass:yellow_stained_glass_slab
+
+#blockus:blockus_barrels
+- blockus:oak_barrel
+- blockus:birch_barrel
+- blockus:jungle_barrel
+- blockus:acacia_barrel
+- blockus:dark_oak_barrel
+- blockus:crimson_barrel
+- blockus:warped_barrel
+- blockus:bamboo_barrel
+- blockus:charred_barrel
+- blockus:white_oak_barrel
+
+#forge:storage_blocks/raw_copper
+- minecraft:raw_copper_block
+
+#c:raw_tin_blocks
+- techreborn:raw_tin_storage_block
+
+#c:ruby_plates
+- techreborn:ruby_plate
+
+#forge:shears
+- minecraft:shears
+
+#c:almandine_dusts
+- techreborn:almandine_dust
+
+#c:gray_glass
+- #c:gray_glass_blocks
+- #c:gray_glass_panes
+- #c:gray_glass_slabs
+- #c:gray_glass_stairs
+
+#c:bauxite_small_dusts
+- techreborn:bauxite_small_dust
+
+#c:blue_dye
+- minecraft:blue_dye
+
+#tooltiprareness:epic_item
+- adventurez:stone_golem_heart
+- adventurez:stone_golem_arm
+- adventurez:gilded_netherite_fragment
+- adventurez:prime_eye
+- adventurez:stone_golem_helmet
+- adventurez:stone_golem_chestplate
+- adventurez:stone_golem_leggings
+- adventurez:stone_golem_boots
+- dragonloot:dragon_scale
+- dragonloot:dragon_horse_armor
+- dragonloot:dragon_helmet
+- dragonloot:dragon_chestplate
+- dragonloot:dragon_leggings
+- dragonloot:dragon_boots
+- dragonloot:upgraded_dragon_chestplate
+- dragonloot:dragon_pickaxe
+- dragonloot:dragon_shovel
+- dragonloot:dragon_axe
+- dragonloot:dragon_hoe
+- dragonloot:dragon_sword
+- dragonloot:dragon_bow
+- dragonloot:dragon_crossbow
+- dragonloot:dragon_trident
+- levelz:strange_potion
+
+#c:hoes
+- #fabric:hoes?
+- minecraft:diamond_hoe
+- minecraft:golden_hoe
+- minecraft:wooden_hoe
+- minecraft:stone_hoe
+- minecraft:iron_hoe
+- minecraft:netherite_hoe
+
+#farmersdelight:tools/knives
+- farmersdelight:flint_knife
+- farmersdelight:iron_knife
+- farmersdelight:diamond_knife
+- farmersdelight:golden_knife
+- farmersdelight:netherite_knife
+
+#fabric:cooked_fishes/salmon
+- minecraft:cooked_salmon
+- farmersdelight:cooked_salmon_slice
+
+#c:red_dyes
+- minecraft:red_dye
+- minecraft:red_dye
+
+#ae2:covered_cable
+- ae2:white_covered_cable
+- ae2:orange_covered_cable
+- ae2:magenta_covered_cable
+- ae2:light_blue_covered_cable
+- ae2:yellow_covered_cable
+- ae2:lime_covered_cable
+- ae2:pink_covered_cable
+- ae2:gray_covered_cable
+- ae2:light_gray_covered_cable
+- ae2:cyan_covered_cable
+- ae2:purple_covered_cable
+- ae2:blue_covered_cable
+- ae2:brown_covered_cable
+- ae2:green_covered_cable
+- ae2:red_covered_cable
+- ae2:black_covered_cable
+- ae2:fluix_covered_cable
+
+#c:bows
+- minecraft:crossbow
+- minecraft:bow
+
+#minecraft:planks
+- minecraft:oak_planks
+- minecraft:spruce_planks
+- minecraft:birch_planks
+- minecraft:jungle_planks
+- minecraft:acacia_planks
+- minecraft:dark_oak_planks
+- minecraft:crimson_planks
+- minecraft:warped_planks
+- architects_palette:twisted_planks
+- blockus:bamboo_planks
+- blockus:charred_planks
+- blockus:white_oak_planks
+- blockus:legacy_planks
+- blockus:herringbone_oak_planks
+- blockus:herringbone_birch_planks
+- blockus:herringbone_spruce_planks
+- blockus:herringbone_jungle_planks
+- blockus:herringbone_acacia_planks
+- blockus:herringbone_dark_oak_planks
+- blockus:herringbone_white_oak_planks
+- blockus:herringbone_bamboo_planks
+- blockus:herringbone_crimson_planks
+- blockus:herringbone_warped_planks
+- blockus:herringbone_charred_planks
+- ecologics:coconut_planks
+- ecologics:walnut_planks
+- ecologics:azalea_planks
+- ecologics:flowering_azalea_planks
+- techreborn:rubber_planks
+- twigs:stripped_bamboo_planks
+
+#c:orange_dye
+- minecraft:orange_dye
+
+#minecraft:fox_food
+- minecraft:sweet_berries
+- minecraft:glow_berries
+
+#forge:cobblestone
+- #forge:cobblestone/normal
+- #forge:cobblestone/infested
+- #forge:cobblestone/mossy
+- #forge:cobblestone/deepslate
+
+#c:orange_glass_blocks
+- minecraft:orange_stained_glass
+
+#c:redstone_plates
+- techreborn:redstone_plate
+
+#c:shulker_boxes
+- minecraft:shulker_box
+- minecraft:blue_shulker_box
+- minecraft:brown_shulker_box
+- minecraft:cyan_shulker_box
+- minecraft:gray_shulker_box
+- minecraft:green_shulker_box
+- minecraft:light_blue_shulker_box
+- minecraft:light_gray_shulker_box
+- minecraft:lime_shulker_box
+- minecraft:magenta_shulker_box
+- minecraft:orange_shulker_box
+- minecraft:pink_shulker_box
+- minecraft:purple_shulker_box
+- minecraft:red_shulker_box
+- minecraft:white_shulker_box
+- minecraft:yellow_shulker_box
+- minecraft:black_shulker_box
+
+#c:emerald_dusts
+- techreborn:emerald_dust
+
+#c:glass_blocks
+- minecraft:glass
+- minecraft:gray_stained_glass
+- minecraft:black_stained_glass
+- minecraft:orange_stained_glass
+- minecraft:blue_stained_glass
+- minecraft:brown_stained_glass
+- minecraft:cyan_stained_glass
+- minecraft:green_stained_glass
+- minecraft:light_blue_stained_glass
+- minecraft:light_gray_stained_glass
+- minecraft:lime_stained_glass
+- minecraft:magenta_stained_glass
+- minecraft:pink_stained_glass
+- minecraft:purple_stained_glass
+- minecraft:red_stained_glass
+- minecraft:tinted_glass
+- minecraft:white_stained_glass
+- minecraft:yellow_stained_glass
+- #c:clear_glass_blocks
+- #c:colored_glass_blocks
+- #c:dark_glass_blocks
+
+#forge:storage_blocks/gold
+- minecraft:gold_block
+
+#c:magenta_glass
+- #c:magenta_glass_blocks
+- #c:magenta_glass_panes
+- #c:magenta_glass_slabs
+- #c:magenta_glass_stairs
+
+#farmersdelight:wolf_prey
+- #fabric:raw_chicken
+- #fabric:raw_mutton
+- minecraft:rabbit
+
+#minecraft:candles
+- minecraft:candle
+- minecraft:white_candle
+- minecraft:orange_candle
+- minecraft:magenta_candle
+- minecraft:light_blue_candle
+- minecraft:yellow_candle
+- minecraft:lime_candle
+- minecraft:pink_candle
+- minecraft:gray_candle
+- minecraft:light_gray_candle
+- minecraft:cyan_candle
+- minecraft:purple_candle
+- minecraft:blue_candle
+- minecraft:brown_candle
+- minecraft:green_candle
+- minecraft:red_candle
+- minecraft:black_candle
+
+#decorative_blocks:beams
+- decorative_blocks:spruce_beam
+- decorative_blocks:acacia_beam
+- decorative_blocks:dark_oak_beam
+- decorative_blocks:warped_beam
+- decorative_blocks:birch_beam
+- decorative_blocks:jungle_beam
+- decorative_blocks:oak_beam
+- decorative_blocks:crimson_beam
+
+#c:ender_pearl_small_dusts
+- techreborn:ender_pearl_small_dust
+
+#forge:dusts/prismarine
+- minecraft:prismarine_shard
+
+#c:iridium_reinforced_tungstensteel_blocks
+- techreborn:iridium_reinforced_tungstensteel_storage_block
+
+#forge:fences
+- #forge:fences/nether_brick
+- #forge:fences/wooden
+
+#c:brass_nuggets
+- techreborn:brass_nugget
+
+#ae2:pattern_provider
+- ae2:cable_pattern_provider
+- ae2:pattern_provider
+
+#c:sodalite_small_dusts
+- techreborn:sodalite_small_dust
+
+#forge:ore_bearing_ground/deepslate
+- minecraft:deepslate

@@ -1,0 +1,21 @@
+To refresh this file, delete it and run /reload command again! Last updated: May 15, 2022, 1:09:19 AM
+
+#minecraft:lava
+- minecraft:lava
+- minecraft:flowing_lava
+
+#minecraft:water
+- minecraft:water
+- minecraft:flowing_water
+
+#decorative_blocks:thatch
+- decorative_blocks:thatch
+- decorative_blocks:flowing_thatch
+
+#ae2:blacklisted/annihilation_plane
+
+#c:water
+- #minecraft:water?
+
+#c:lava
+- #minecraft:lava?

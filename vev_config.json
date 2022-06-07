@@ -1,0 +1,14 @@
+{
+	"debug": false,
+	"write_default_reward_data": false,
+	"log_added_recipes": false,
+	"log_removed_recipes": false,
+	"log_skipped_recipes": false,
+	"log_erroring_recipes": true,
+	"simple_advancement_points": false,
+	"individual_advancement_points": true,
+	"task_points": 1,
+	"goal_points": 2,
+	"challenge_points": 3,
+	"starting_points": 3
+}

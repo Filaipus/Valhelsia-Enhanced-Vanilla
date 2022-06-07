@@ -3,9 +3,10 @@ debug = false
 netherTop = 127
 noEnergy = false
 convertDeepslateOres = false
+removesCommonMaterialAdvQuarry = true
+removeFrameAfterQuarryIsRemoved = false
 [power]
 rebornEnergyConversionCoefficient = 0.0625
-fastTransferEnergyConversionCoefficient = 0.0625
 creativeGeneratorGeneration = 1000
 [quarry]
 quarryEnergyCapacity = 10000.0
@@ -22,3 +23,6 @@ advQuarryEnergyMakeFrame = 15.0
 advQuarryEnergyBreakBlock = 10.0
 advQuarryEnergyRemoveFluid = 50.0
 advQuarryEnergyMoveHead = 25.0
+[filler]
+fillerEnergyCapacity = 1000.0
+fillerEnergyBreakBlock = 10.0

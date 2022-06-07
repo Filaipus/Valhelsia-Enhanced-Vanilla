@@ -1,6 +1,7 @@
 {
   "check_the_wiki_for_more_information": "https://qouteall.fun/immptl/wiki/Config-Options",
   "enableWarning": false,
+  "enableMirrorCreation": true,
   "maxPortalLayer": 5,
   "sharedBlockMeshBufferOptimization": true,
   "lagAttackProof": true,
@@ -26,6 +27,10 @@
   "enableCrossPortalView": true,
   "enableClippingMechanism": true,
   "enableDepthClampForPortalRendering": false,
+  "lightVanillaNetherPortalWhenCrouching": false,
+  "enableNetherPortalEffect": true,
+  "enableClientPerformanceAdjustment": true,
+  "enableServerPerformanceAdjustment": true,
   "netherPortalMode": "normal",
   "endPortalMode": "normal"
 }

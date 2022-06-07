@@ -1,0 +1,11 @@
+
+[client]
+	#How much RAM is required to start the Modpack (in GB) [default: 4.0]
+	#Range: 
+	required_ram = 4.0
+	#How much RAM is recommended for an optimal experience (in GB) [default: 5.0]
+	#Range: 
+	recommended_ram = 5.0
+	#Should the Durability Tooltip be disabled [default: false]
+	disable_durability_tooltip = false
+

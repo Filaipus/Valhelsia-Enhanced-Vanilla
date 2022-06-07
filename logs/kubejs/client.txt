@@ -1,0 +1,3 @@
+[20:43:04] [INFO ] Loaded script client_scripts:item_tooltip.js in 0.002 s
+[20:43:04] [INFO ] Loaded script client_scripts:rei_blacklist.js in 0.002 s
+[20:43:04] [INFO ] Loaded 2/2 KubeJS client scripts in 0.008 s

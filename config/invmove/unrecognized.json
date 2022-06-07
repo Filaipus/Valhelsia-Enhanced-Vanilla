@@ -1,0 +1,9 @@
+{
+  "allowMovement": {
+    "net.levelz.gui.LevelzScreen": true,
+    "net.minecraft.class_434": true
+  },
+  "hideBackground": {
+    "net.levelz.gui.LevelzScreen": true
+  }
+}
