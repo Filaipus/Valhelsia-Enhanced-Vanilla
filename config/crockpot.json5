@@ -1,0 +1,57 @@
+{
+	"nothing": "Move along.",
+	"gameplay": {
+		// A bottle is the same as a bucket, right?
+		"canFillWithWaterBottle": true,
+		// Should a redstone crock pot need power?
+		"redstoneNeedsPower": false,
+		// What's the minimum signal strength a redstone pot needs?
+		"redstonePowerThreshold": 8,
+		"maxBonusLevels": 5,
+		// How gross is too gross?
+		"cowlCurseLevels": 5,
+		// Is reboiling stew really all that bad?
+		"cursedStew": true,
+		"boilSecondsPerLevel": 120,
+		"maxPortions": 64,
+		"itemPositiveEffects": true,
+		"itemMinPositiveBonusLevel": 5,
+		"itemNegativeEffects": true,
+		"itemMinNegativeCurseLevel": 2,
+		"maxStewNameLength": 32,
+		// It's probably a good idea to keep this enabled
+		"cappedNauseaDuration": true,
+		// Number of seconds added to the nausea effect per curse level
+		"baseNauseaDuration": 5,
+		"maxNauseaDuration": 25,
+		// Too much of a good thing, right?
+		"cappedPositiveDuration": true,
+		// Number of seconds to add to the saturation effect per bonus level
+		"basePositiveDuration": 5,
+		"maxPositiveDuration": 25,
+		// Minimum bonus levels before a stew can be called 'satisfying'
+		"minSatisfyingLevel": 1,
+		// Minimum bonus levels before a stew can be called 'filling'
+		"minFillingLevel": 3,
+		// Minimum bonus levels before a stew can be called 'hearty'
+		"minHeartyLevel": 5
+	},
+	"sound": {
+		// This is a 1/X chance of sound per tick
+		"boilSoundChance": 100,
+		// The default value is about 5% per second
+		"bubbleSoundChance": 100,
+		"useBoilSound": true,
+		"useBubbleSound": true,
+		"soundEffectVolume": 0.30000001192092896
+	},
+	"graphics": {
+		// This is a 1/X chance of a particle per tick
+		"boilParticleChance": 50,
+		// The default value is about 10% per tick
+		"bubbleParticleChance": 50,
+		"useBoilParticles": true,
+		"useBubbleParticles": true,
+		"animateBoilingLid": true
+	}
+}

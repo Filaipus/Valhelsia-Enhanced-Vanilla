@@ -2,10 +2,13 @@
   "allowMovement": {
     "net.levelz.gui.LevelzScreen": true,
     "net.minecraft.class_434": true,
-    "net.levelz.gui.InfoScreen": true
+    "net.levelz.gui.InfoScreen": true,
+    "zabi.minecraft.extraalchemy.screen.potion_bag.PotionBagScreen": true
   },
   "hideBackground": {
     "net.levelz.gui.LevelzScreen": true,
-    "net.levelz.gui.InfoScreen": true
+    "net.levelz.gui.InfoScreen": true,
+    "net.minecraft.class_442": true,
+    "zabi.minecraft.extraalchemy.screen.potion_bag.PotionBagScreen": true
   }
 }
