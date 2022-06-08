@@ -284,6 +284,13 @@
     },
     "done": true
   },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "beef": "2022-06-07 18:33:39 -0600",
+      "melon_slice": "2022-06-07 18:34:39 -0600"
+    },
+    "done": false
+  },
   "minecraft:recipes/tools/wooden_hoe": {
     "criteria": {
       "has_stick": "2022-06-07 16:10:36 -0600"
@@ -331,6 +338,12 @@
   "twigs:recipes/calcite_stairs_from_calcite_stonecutting": {
     "criteria": {
       "has_calcite": "2022-06-07 15:47:38 -0600"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/decorative_blocks.general/oak_palisade": {
+    "criteria": {
+      "has_log": "2022-06-07 18:33:17 -0600"
     },
     "done": true
   },
@@ -394,6 +407,12 @@
     },
     "done": true
   },
+  "ecologics:recipes/ecologics/seashell_block": {
+    "criteria": {
+      "has_seashell": "2022-06-07 18:33:48 -0600"
+    },
+    "done": true
+  },
   "blockus:recipes/blockus.blockus_building_blocks/stone_tile_stairs_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2022-06-07 17:54:41 -0600"
@@ -409,6 +428,12 @@
   "minecraft:recipes/misc/leather_horse_armor": {
     "criteria": {
       "has_leather": "2022-06-07 18:24:12 -0600"
+    },
+    "done": true
+  },
+  "ecologics:recipes/ecologics/seashell_tiles": {
+    "criteria": {
+      "has_seashell": "2022-06-07 18:33:48 -0600"
     },
     "done": true
   },
@@ -482,6 +507,12 @@
   "twigs:recipes/polished_bloodstone_brick_slab": {
     "criteria": {
       "has_polished_bloodstone_bricks": "2022-06-07 15:47:38 -0600"
+    },
+    "done": true
+  },
+  "blockus:recipes/blockus.blockus_building_blocks/oak_small_logs": {
+    "criteria": {
+      "has_oak_log": "2022-06-07 18:33:17 -0600"
     },
     "done": true
   },
@@ -944,6 +975,12 @@
     },
     "done": true
   },
+  "blockus:recipes/food/cookie": {
+    "criteria": {
+      "has_the_recipe": "2022-06-07 18:33:31 -0600"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/red_dye_from_poppy": {
     "criteria": {
       "has_poppy": "2022-06-07 16:10:38 -0600"
@@ -1016,6 +1053,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/oak_planks": {
+    "criteria": {
+      "has_logs": "2022-06-07 18:33:17 -0600"
+    },
+    "done": true
+  },
   "twigs:recipes/bamboo_thatch_stairs": {
     "criteria": {
       "has_bamboo_thatch": "2022-06-07 15:47:38 -0600"
@@ -1025,6 +1068,12 @@
   "techreborn:recipes/centrifuge/calcium_carbonate_cell": {
     "criteria": {
       "has_calcium_carbonate": "2022-06-07 15:47:39 -0600"
+    },
+    "done": true
+  },
+  "ecologics:recipes/ecologics/sandcastle": {
+    "criteria": {
+      "has_seashell": "2022-06-07 18:33:48 -0600"
     },
     "done": true
   },
@@ -1130,6 +1179,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/oak_wood": {
+    "criteria": {
+      "has_log": "2022-06-07 18:33:17 -0600"
+    },
+    "done": true
+  },
   "twigs:recipes/polished_tuff_brick_wall_from_polished_tuff_brick_stonecutting": {
     "criteria": {
       "has_polished_tuff_bricks": "2022-06-07 15:47:39 -0600"
@@ -1163,6 +1218,12 @@
   "blockus:recipes/blockus.blockus_redstone/stone_trapdoor": {
     "criteria": {
       "has_stone": "2022-06-07 17:54:41 -0600"
+    },
+    "done": true
+  },
+  "techreborn:recipes/extractor/brown_dye_from_cocoa_beans": {
+    "criteria": {
+      "has_cocoa_beans": "2022-06-07 18:33:31 -0600"
     },
     "done": true
   },
@@ -1534,6 +1595,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cookie": {
+    "criteria": {
+      "has_cocoa": "2022-06-07 18:33:31 -0600"
+    },
+    "done": true
+  },
   "twigs:recipes/polished_bloodstone_slab": {
     "criteria": {
       "has_bloodstone": "2022-06-07 15:47:38 -0600"
@@ -1561,6 +1628,12 @@
   "minecraft:recipes/building_blocks/melon": {
     "criteria": {
       "has_melon": "2022-06-07 16:10:45 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/brown_dye": {
+    "criteria": {
+      "has_cocoa_beans": "2022-06-07 18:33:31 -0600"
     },
     "done": true
   },
