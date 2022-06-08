@@ -59,6 +59,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/leather_helmet": {
+    "criteria": {
+      "has_leather": "2022-06-07 18:24:12 -0600"
+    },
+    "done": true
+  },
   "twigs:recipes/polished_amethyst_brick_slab": {
     "criteria": {
       "has_polished_amethyst_bricks": "2022-06-07 15:47:38 -0600"
@@ -400,6 +406,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/leather_horse_armor": {
+    "criteria": {
+      "has_leather": "2022-06-07 18:24:12 -0600"
+    },
+    "done": true
+  },
   "techreborn:recipes/distillation_tower/diesel": {
     "criteria": {
       "has_oil": "2022-06-07 15:47:38 -0600"
@@ -409,6 +421,12 @@
   "chiselsandbits:recipes/chiselsandbits/chisel_iron": {
     "criteria": {
       "has_rod": "2022-06-07 16:10:36 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_leggings": {
+    "criteria": {
+      "has_leather": "2022-06-07 18:24:12 -0600"
     },
     "done": true
   },
@@ -596,6 +614,12 @@
   "farmersdelight:main/root": {
     "criteria": {
       "seeds": "2022-06-07 15:47:38 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/item_frame": {
+    "criteria": {
+      "has_leather": "2022-06-07 18:24:12 -0600"
     },
     "done": true
   },
@@ -1172,6 +1196,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/leather_chestplate": {
+    "criteria": {
+      "has_leather": "2022-06-07 18:24:12 -0600"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/repeater": {
     "criteria": {
       "has_redstone_torch": "2022-06-07 16:11:33 -0600"
@@ -1351,6 +1381,12 @@
   "awesomeflooring:recipes/stone_floor": {
     "criteria": {
       "requirement": "2022-06-07 15:47:38 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_boots": {
+    "criteria": {
+      "has_leather": "2022-06-07 18:24:12 -0600"
     },
     "done": true
   },
