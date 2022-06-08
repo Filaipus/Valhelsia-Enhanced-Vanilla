@@ -1,24 +1,24 @@
-[18:41:11] [INFO ] Loaded script server_scripts:functions.js in 0.003 s
-[18:41:11] [INFO ] Loaded script server_scripts:config.js in 0.016 s
-[18:41:11] [INFO ] Loaded script server_scripts:recipes/remove.js in 0.001 s
-[18:41:11] [INFO ] Loaded script server_scripts:tags/item_tags.js in 0.001 s
-[18:41:11] [INFO ] Loaded script server_scripts:advancements/remove.js in 0.0 s
-[18:41:11] [INFO ] Loaded script server_scripts:advancements/rewards.js in 0.003 s
-[18:41:11] [INFO ] Loaded script server_scripts:loot_tables/chests.js in 0.0 s
-[18:41:11] [INFO ] Loaded script server_scripts:recipes/farmersdelight.js in 0.001 s
-[18:41:11] [INFO ] Loaded script server_scripts:recipes/replace.js in 0.001 s
-[18:41:11] [INFO ] Loaded script server_scripts:recipes/shaped.js in 0.001 s
-[18:41:11] [INFO ] Loaded script server_scripts:recipes/shapeless.js in 0.0 s
-[18:41:11] [INFO ] Loaded script server_scripts:recipes/techreborn.js in 0.001 s
-[18:41:11] [INFO ] Loaded script server_scripts:first_start.js in 0.0 s
-[18:41:11] [INFO ] Loaded 13/13 KubeJS server scripts in 0.034 s
-[18:41:11] [INFO ] Scripts loaded
-[18:41:11] [INFO ] Scanning recipes...
-[18:41:14] [INFO ] [items] Found 1146 tags, added 54 objects, removed 0 objects
-[18:41:14] [INFO ] [items] Found 1146 tags, added 54 objects, removed 0 objects
-[18:41:14] [INFO ] Found 9724 recipes and 0 failed recipes in 189.4 ms
-[18:41:15] [INFO ] Posted recipe events in 113.5 ms
-[18:41:15] [INFO ] Modified & removed recipes in 72.93 ms
-[18:41:15] [WARN ] Error creating recipe farmersdelight:kjs_4r4qyrarpbc94zry8d2rd7fbj[farmersdelight:cutting]: {"type":"farmersdelight:cutting","ingredients":[{"tag":"minecraft:wool"}],"tool":{"tag":"farmersdelight:tools/knives"},"result":[{"item":"minecraft:string","count":2}]}: com.google.gson.JsonParseException: No ingredients for cooking recipe
-[18:41:15] [INFO ] Added recipes in 7.784 ms
-[18:41:15] [INFO ] Added 38 recipes, removed 71 recipes, modified 31 recipes, with 1 failed recipes and 0 fall-backed recipes
+[19:10:31] [INFO ] Loaded script server_scripts:functions.js in 0.003 s
+[19:10:31] [INFO ] Loaded script server_scripts:config.js in 0.011 s
+[19:10:31] [INFO ] Loaded script server_scripts:recipes/remove.js in 0.001 s
+[19:10:31] [INFO ] Loaded script server_scripts:tags/item_tags.js in 0.001 s
+[19:10:31] [INFO ] Loaded script server_scripts:advancements/remove.js in 0.001 s
+[19:10:31] [INFO ] Loaded script server_scripts:advancements/rewards.js in 0.002 s
+[19:10:31] [INFO ] Loaded script server_scripts:loot_tables/chests.js in 0.001 s
+[19:10:31] [INFO ] Loaded script server_scripts:recipes/farmersdelight.js in 0.0 s
+[19:10:31] [INFO ] Loaded script server_scripts:recipes/replace.js in 0.001 s
+[19:10:31] [INFO ] Loaded script server_scripts:recipes/shaped.js in 0.001 s
+[19:10:31] [INFO ] Loaded script server_scripts:recipes/shapeless.js in 0.0 s
+[19:10:31] [INFO ] Loaded script server_scripts:recipes/techreborn.js in 0.001 s
+[19:10:31] [INFO ] Loaded script server_scripts:first_start.js in 0.0 s
+[19:10:31] [INFO ] Loaded 13/13 KubeJS server scripts in 0.028 s
+[19:10:31] [INFO ] Scripts loaded
+[19:10:31] [INFO ] Scanning recipes...
+[19:10:33] [INFO ] [items] Found 1146 tags, added 54 objects, removed 0 objects
+[19:10:33] [INFO ] [items] Found 1146 tags, added 54 objects, removed 0 objects
+[19:10:34] [INFO ] Found 9724 recipes and 0 failed recipes in 183.9 ms
+[19:10:34] [INFO ] Posted recipe events in 128.0 ms
+[19:10:34] [INFO ] Modified & removed recipes in 66.65 ms
+[19:10:34] [WARN ] Error creating recipe farmersdelight:kjs_4r4qyrarpbc94zry8d2rd7fbj[farmersdelight:cutting]: {"type":"farmersdelight:cutting","ingredients":[{"tag":"minecraft:wool"}],"tool":{"tag":"farmersdelight:tools/knives"},"result":[{"item":"minecraft:string","count":2}]}: com.google.gson.JsonParseException: No ingredients for cooking recipe
+[19:10:34] [INFO ] Added recipes in 8.455 ms
+[19:10:34] [INFO ] Added 38 recipes, removed 71 recipes, modified 31 recipes, with 1 failed recipes and 0 fall-backed recipes
