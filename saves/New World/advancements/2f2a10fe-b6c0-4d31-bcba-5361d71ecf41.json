@@ -1,4 +1,10 @@
 {
+  "techreborn:recipes/crafting_table/cable/copper_cable": {
+    "criteria": {
+      "has_copper_ingot": "2022-06-07 18:52:05 -0600"
+    },
+    "done": true
+  },
   "twigs:recipes/rhyolite_wall_from_rhyolite_stonecutting": {
     "criteria": {
       "has_rhyolite": "2022-06-07 15:47:38 -0600"
@@ -26,6 +32,12 @@
   "minecraft:recipes/building_blocks/stone_bricks": {
     "criteria": {
       "has_stone": "2022-06-07 17:54:41 -0600"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/appliances/copper_backtank": {
+    "criteria": {
+      "has_item": "2022-06-07 18:52:05 -0600"
     },
     "done": true
   },
@@ -71,6 +83,12 @@
     },
     "done": true
   },
+  "oxidized:recipes/copper_pan": {
+    "criteria": {
+      "has_copper_block": "2022-06-07 18:52:05 -0600"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/campfire": {
     "criteria": {
       "has_stick": "2022-06-07 16:10:36 -0600"
@@ -87,6 +105,12 @@
     "criteria": {
       "has_helium3": "2022-06-07 15:47:38 -0600",
       "has_deuterium": "2022-06-07 15:47:38 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/copper_block": {
+    "criteria": {
+      "has_copper_ingot": "2022-06-07 18:52:05 -0600"
     },
     "done": true
   },
@@ -151,6 +175,12 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/kinetics/fluid_valve": {
+    "criteria": {
+      "has_item": "2022-06-07 18:52:05 -0600"
+    },
+    "done": true
+  },
   "twigs:recipes/schist_wall": {
     "criteria": {
       "has_schist": "2022-06-07 15:47:38 -0600"
@@ -178,6 +208,12 @@
   "twigs:recipes/polished_schist_stairs_from_polished_schist_stonecutting": {
     "criteria": {
       "has_polished_schist": "2022-06-07 15:47:38 -0600"
+    },
+    "done": true
+  },
+  "techreborn:recipes/techreborn.item_group/crafting_table/nugget/copper_nugget": {
+    "criteria": {
+      "has_copper_ingot": "2022-06-07 18:52:05 -0600"
     },
     "done": true
   },
@@ -329,6 +365,12 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/materials/copper_nugget": {
+    "criteria": {
+      "has_item": "2022-06-07 18:52:05 -0600"
+    },
+    "done": true
+  },
   "twigs:recipes/weeping_polished_blackstone_brick_slab_from_weeping_polished_blackstone_brick_stonecutting": {
     "criteria": {
       "has_weeping_polished_blackstone_bricks": "2022-06-07 15:47:38 -0600"
@@ -377,6 +419,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/crafting_table/cable/insulated_copper_cable": {
+    "criteria": {
+      "has_copper": "2022-06-07 18:52:05 -0600"
+    },
+    "done": true
+  },
   "twigs:recipes/schist_wall_from_schist_stonecutting": {
     "criteria": {
       "has_schist": "2022-06-07 15:47:38 -0600"
@@ -416,6 +464,12 @@
   "blockus:recipes/blockus.blockus_building_blocks/stone_tile_stairs_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2022-06-07 17:54:41 -0600"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/cable/insulated_copper_cable_alt": {
+    "criteria": {
+      "has_copper": "2022-06-07 18:52:05 -0600"
     },
     "done": true
   },
@@ -479,6 +533,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/compressor/copper_plate": {
+    "criteria": {
+      "has_copper_ingot": "2022-06-07 18:52:05 -0600"
+    },
+    "done": true
+  },
   "techreborn:recipes/chemical_reactor/calcium_carbonate": {
     "criteria": {
       "has_carbon": "2022-06-07 15:47:39 -0600",
@@ -507,6 +567,12 @@
   "twigs:recipes/polished_bloodstone_brick_slab": {
     "criteria": {
       "has_polished_bloodstone_bricks": "2022-06-07 15:47:38 -0600"
+    },
+    "done": true
+  },
+  "friendsandfoes:recipes/redstone/copper_button": {
+    "criteria": {
+      "has_copper_ingot": "2022-06-07 18:52:05 -0600"
     },
     "done": true
   },
@@ -552,6 +618,12 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/kinetics/mechanical_pump": {
+    "criteria": {
+      "has_item": "2022-06-07 18:52:05 -0600"
+    },
+    "done": true
+  },
   "twigs:recipes/polished_rhyolite_stairs": {
     "criteria": {
       "has_rhyolite": "2022-06-07 15:47:39 -0600"
@@ -567,6 +639,12 @@
   "minecraft:recipes/transportation/birch_boat": {
     "criteria": {
       "in_water": "2022-06-07 17:30:40 -0600"
+    },
+    "done": true
+  },
+  "blockus:recipes/blockus.blockus_legacy/legacy_sapling": {
+    "criteria": {
+      "has_oak_sapling": "2022-06-07 18:45:37 -0600"
     },
     "done": true
   },
@@ -690,6 +768,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/lightning_rod": {
+    "criteria": {
+      "has_copper_ingot": "2022-06-07 18:52:05 -0600"
+    },
+    "done": true
+  },
   "twigs:recipes/weeping_polished_blackstone_brick_wall": {
     "criteria": {
       "has_weeping_polished_blackstone_bricks": "2022-06-07 15:47:38 -0600"
@@ -711,6 +795,12 @@
   "techreborn:recipes/chemical_reactor/sulfuric_acid": {
     "criteria": {
       "has_sulfur": "2022-06-07 15:47:38 -0600"
+    },
+    "done": true
+  },
+  "techreborn:recipes/industrial_grinder/copper_ingot_with_mercury": {
+    "criteria": {
+      "has_copper_ingot": "2022-06-07 18:52:05 -0600"
     },
     "done": true
   },
@@ -981,6 +1071,12 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/kinetics/copper_valve_handle_from_others": {
+    "criteria": {
+      "has_item": "2022-06-07 18:52:05 -0600"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/red_dye_from_poppy": {
     "criteria": {
       "has_poppy": "2022-06-07 16:10:38 -0600"
@@ -1020,6 +1116,12 @@
   "minecraft:recipes/building_blocks/stone_slab": {
     "criteria": {
       "has_stone": "2022-06-07 17:54:41 -0600"
+    },
+    "done": true
+  },
+  "techreborn:recipes/alloy_smelter/bronze_ingot": {
+    "criteria": {
+      "has_copper": "2022-06-07 18:52:05 -0600"
     },
     "done": true
   },
@@ -1149,6 +1251,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/wire_mill/copper_cable": {
+    "criteria": {
+      "has_copper_ingot": "2022-06-07 18:52:05 -0600"
+    },
+    "done": true
+  },
   "twigs:recipes/polished_bloodstone_brick_wall": {
     "criteria": {
       "has_polished_bloodstone_bricks": "2022-06-07 15:47:38 -0600"
@@ -1176,6 +1284,12 @@
   "twigs:recipes/tuff_stairs": {
     "criteria": {
       "has_tuff": "2022-06-07 15:47:39 -0600"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/storage_block/copper_wall": {
+    "criteria": {
+      "has_copper": "2022-06-07 18:52:05 -0600"
     },
     "done": true
   },
@@ -1212,6 +1326,12 @@
   "blockus:recipes/blockus.blockus_building_blocks/charred_nether_bricks": {
     "criteria": {
       "has_fire_charge": "2022-06-07 17:31:21 -0600"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/kinetics/copper_valve_handle": {
+    "criteria": {
+      "has_item": "2022-06-07 18:52:05 -0600"
     },
     "done": true
   },
@@ -1311,9 +1431,21 @@
     },
     "done": true
   },
+  "techreborn:recipes/crafting_table/storage_block/copper_wall_stonecutting": {
+    "criteria": {
+      "has_copper": "2022-06-07 18:52:05 -0600"
+    },
+    "done": true
+  },
   "twigs:recipes/polished_rhyolite_brick_slab": {
     "criteria": {
       "has_polished_rhyolite_bricks": "2022-06-07 15:47:38 -0600"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/appliances/diving_helmet": {
+    "criteria": {
+      "has_item": "2022-06-07 18:52:05 -0600"
     },
     "done": true
   },
@@ -1339,6 +1471,12 @@
   "minecraft:recipes/food/cooked_beef": {
     "criteria": {
       "has_beef": "2022-06-07 17:32:33 -0600"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/materials/copper_casing": {
+    "criteria": {
+      "has_item": "2022-06-07 18:52:05 -0600"
     },
     "done": true
   },
@@ -1373,6 +1511,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/alloy_smelter/brass_ingot": {
+    "criteria": {
+      "has_copper": "2022-06-07 18:52:05 -0600"
+    },
+    "done": true
+  },
   "minecraft:nether/brew_potion": {
     "criteria": {
       "potion": "2022-06-07 17:57:05 -0600"
@@ -1394,6 +1538,12 @@
   "techreborn:recipes/centrifuge/deuterium_cell": {
     "criteria": {
       "has_deuterium": "2022-06-07 15:47:38 -0600"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/appliances/diving_boots": {
+    "criteria": {
+      "has_item": "2022-06-07 18:52:05 -0600"
     },
     "done": true
   },
@@ -1451,6 +1601,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/compressor/compressed_plantball": {
+    "criteria": {
+      "has_plantball_material": "2022-06-07 18:45:37 -0600"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/jungle_boat": {
     "criteria": {
       "in_water": "2022-06-07 17:30:40 -0600"
@@ -1502,6 +1658,12 @@
   "blockus:recipes/blockus.blockus_decorations/stone_tile_wall_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2022-06-07 17:54:41 -0600"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/kinetics/smart_fluid_pipe": {
+    "criteria": {
+      "has_item": "2022-06-07 18:52:05 -0600"
     },
     "done": true
   },
@@ -1607,9 +1769,21 @@
     },
     "done": true
   },
+  "techreborn:recipes/crafting_table/parts/plantball_from_saplings": {
+    "criteria": {
+      "has_sapling": "2022-06-07 18:45:37 -0600"
+    },
+    "done": true
+  },
   "twigs:recipes/bloodstone_wall_from_bloodstone_stonecutting": {
     "criteria": {
       "has_bloodstone": "2022-06-07 15:47:38 -0600"
+    },
+    "done": true
+  },
+  "oxidized:recipes/copper_nugget": {
+    "criteria": {
+      "has_copper_block": "2022-06-07 18:52:05 -0600"
     },
     "done": true
   },
@@ -1622,6 +1796,12 @@
   "minecraft:recipes/decorations/soul_campfire": {
     "criteria": {
       "has_stick": "2022-06-07 16:10:36 -0600"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/kinetics/fluid_pipe": {
+    "criteria": {
+      "has_item": "2022-06-07 18:52:05 -0600"
     },
     "done": true
   },
@@ -1647,6 +1827,12 @@
   "techreborn:recipes/extractor/glass_bottle_from_potion": {
     "criteria": {
       "has_potion": "2022-06-07 17:57:00 -0600"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/kinetics/hose_pulley": {
+    "criteria": {
+      "has_item": "2022-06-07 18:52:05 -0600"
     },
     "done": true
   },
