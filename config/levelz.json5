@@ -75,7 +75,7 @@
 	"miningLockedMultiplicator": 2.0,
 	// XP equation: lvl^2 * multiplicator + base
 	"xpCostMultiplicator": 0.07000000029802322,
-	"xpBaseCost": 50,
+	"xpBaseCost": 10,
 	// 0 = no experience cap
 	"xpMaxCost": 10000,
 	"resetCurrentXP": true,
